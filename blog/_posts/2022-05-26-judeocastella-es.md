@@ -8,7 +8,7 @@ summary: "Un proyecto para contribuir a la preservación del patrimonio lingüí
 ---
 
 <p align="center"><img src="/img/blog/2022/ab_tr_en_color.jpg" alt="Banderas de union europea y Turquia"></p>
-<p style="text-align: center;" width="80%">Este proyecto está financiado por la Unión Europea.</p>
+<p style="text-align: center;">Este proyecto está financiado por la Unión Europea.</p>
 
 ## ¿En qué consiste el proyecto?
 
