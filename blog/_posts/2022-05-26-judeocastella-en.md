@@ -78,7 +78,7 @@ We have carried out four workshops, in Turkey and Spain, with the title 'No lang
 
 ### Press Conferences
 
-We have organized two press conferences in Turkey and Spain, enriched with round table conferences, in order to share the results of the project with minoritized language speakers and/or researchers from both territories, to discuss the digital divide.
+We have organized two press conferences in Turkey and Spain, enriched with round table conferences, in order to share the results of the project with minoritized language speakers and/or researchers from both territories, and to discuss the digital divide.
 
 <p align="center"><img src="/img/blog/2022/taularodona.jpeg" alt="Round table discussions"></p>
 
