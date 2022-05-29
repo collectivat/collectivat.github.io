@@ -38,8 +38,6 @@ Hemos actualizado y traducido la página del SKAD, mejorando la accesibilidad a 
 
 [https://sefarad.com.tr/](https://sefarad.com.tr/sp)
 
-
-
 ### Ladino Data Hub
 
 <p align="center"><img src="/img/blog/2022/datahub.png" alt="Ladino Data hub screenshot" width="60%"></p>
@@ -47,8 +45,6 @@ Hemos actualizado y traducido la página del SKAD, mejorando la accesibilidad a 
 Hemos creado la herramienta Ladino Data Hub a través de la compilación de datos del lenguaje como patrimonio general. Con esta aplicación centralizamos los datos disponibles sobre la cultura sefardí y el idioma judeoespañol en un único punto de acceso abierto.
 
 [https://data.sefarad.com.tr/](https://data.sefarad.com.tr/es/)
-
-
 
 ### Traductor automático con voz
 
@@ -58,8 +54,6 @@ Hemos generado una aplicación web para traducir del judeoespañol de y a tres i
 
 [https://translate.sefarad.com.tr/](https://translate.sefarad.com.tr/?locale=es)
 
-
-
 ### Aprendizaje del judeoespañol
 
 <p align="center"><img src="/img/blog/2022/skadinsta.png" alt="SKAD's instagram account with ladino language learning videos" width="60%"></p>
@@ -67,8 +61,6 @@ Hemos generado una aplicación web para traducir del judeoespañol de y a tres i
 Hemos realizado y difundido 300 vídeos cortos para el aprendizaje del judeoespañol. En cada vídeo se puede leer y escuchar una frase en ladino, y también leer en inglés, turco y español.
 
 [Instagram de SKAD](https://www.instagram.com/sephardiccenteristanbul/)
-
-
 
 ### Buenas prácticas digitales
 
@@ -78,23 +70,17 @@ Hemos elaborado un documento de buenas prácticas digitales sobre la preservaci�
 
 [https://language-toolkit.readthedocs.io/](https://language-toolkit.readthedocs.io/es/latest/)
 
-
-
 ### Talleres
 
 Hemos llevado a cabo cuatro talleres, en Turquía y España, con el título ‘Que ningún idioma se quede atrás de la era digital’. En ellos hemos compartido las experiencias y aprendizajes del proyecto y los métodos utilizados para la preservación y promoción del judeoespañol como idioma minorizado.
 
 <p align="center"><img src="/img/blog/2022/workshops.jpeg" alt="Fotos desde talleres" width="100%"></p>
 
-
-
 ### Rodas de premsa
 
 Hemos organizado dos rodas de premsa en Turquía y España, ampliadas con mesas redondas, para compartir los resultados del proyecto con hablantes y/o investigadores de idiomas minorizados de ambos territorios y hablar sobre la brecha digital.
 
 <p align="center"><img src="/img/blog/2022/taularodona.jpeg" alt="Discusiones de mesas redondos"></p>
-
-
 
 ### Divulgación
 
@@ -104,8 +90,6 @@ Hemos dado a conocer tanto los objetivos, actividades, resultados y productos de
 
 ["Preservar el judeocastellà: el projecte que vol salvar en el món digital un castellà desvinculat d’Espanya durant 500 anys" en Mozaika](https://mozaika.es/magazine/preservar-el-judeocastella-el-projecte-que-vol-salvar-en-el-mon-digital-un-castella-desvinculat-despanya-durant-500-anys/)
 
-
-
 ## ¿Qué es la brecha digital lingüística?
 
 La brecha digital lingüística hace referencia a la desigual distribución de recursos entre los idiomas hegemónicos y los que cuentan con menor número de hablantes y apoyo institucional en cuanto a la accesibilidad, el uso y el impacto de las tecnologías de la información y la comunicación. En este sentido, solo el 5% de los idiomas del mundo están representados en el entorno virtual. 
@@ -114,19 +98,15 @@ Frente al peligro de extinción digital de los idiomas minorizados y la infrarre
 
 El proyecto “Judeoespañol: conectando las dos orillas del Mediterráneo” reivindica el uso de la tecnología para empoderar a hablantes de un idioma minorizado que está en peligro de extinción y para vincular, después de cientos años, dos territorios unidos por una historia de migración forzada.
 
-
 ## ¿Qué son el idioma judeoespañol y la cultura sefardí?
 
 El judeoespañol es un idioma minorizado y en peligro de extinción, que deriva del castellano antiguo y ha recibido la influencia de los idiomas de los territorios que han acogido la diàspora sefardí. La comunidad sefardí, descendiente del pueblo judío expulsado de España por la Inquisición hace más de 500 años y refugiado en el Imperio Otomano y otros territorios del mundo, habla y ha logrado preservar el judeoespañol. En la actualidad, el idioma y la cultura sefardíes forman parte del patrimonio cultural común del Mediterráneo, la Península Ibérica y Anatolia.
-
 
 ## ¿Quién lo finanza?
 
 El proyecto “Judeoespañol: conectando las dos orillas del Mediterráneo” está financiado en el marco del “Programa de Subvenciones para el Patrimonio Cultural Común: Preservación y Diálogo entre Turquía y la UE (CCH-II)” implementado por el Ministerio de Cultura y Turismo de la República de Türkiye con el apoyo financiero de la Unión Europea. El “Programa de Subvenciones para el Patrimonio Cultural Común: Preservación y Diálogo entre Turquía y la UE (CCH-II)” tiene como objetivo la promoción y mejora de las actividades del patrimonio cultural común implementadas conuntamente entre organizaciones turcas y de la UE. El Ministerio de Cultura y Turismo es la institución responsable de la ejecución técnica del Programa de Subvenciones, mientras que la Unidad Central de Finanzas y Contratos es el órgano de contratación.
 
 <p align="center"><img src="/img/blog/2022/eu_project_logos.png" alt="Logos de entidades patrocinadores" width="80%"></p>
-
-
 
 #### Contacto
  
@@ -135,7 +115,4 @@ El proyecto “Judeoespañol: conectando las dos orillas del Mediterráneo” es
 [SKAD](mailto:sephardiccenter@gmail.com)
 
 --- 
-
-Esta página web ha sido creada con el apoyo financiero de la Unión Europea. El contenido de este sitio web es responsabilidad exclusiva de Col·lectivaT y SKAD, y no refleja necesariamente los puntos de vista de la Unión Europea.
-
-
+<p style="text-align: center;">Esta página web ha sido creada con el apoyo financiero de la Unión Europea. El contenido de este sitio web es responsabilidad exclusiva de Col·lectivaT y SKAD, y no refleja necesariamente los puntos de vista de la Unión Europea.</p>
