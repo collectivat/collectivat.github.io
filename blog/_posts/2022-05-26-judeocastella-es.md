@@ -12,7 +12,7 @@ summary: "Un proyecto para contribuir a la preservación del patrimonio lingüí
 
 ## ¿En qué consiste el proyecto?
 
-“Judeoespañol: conectando las dos orillas del Mediterráneo” es un proyecto desarrollado conjuntamente por las organizaciones Col·lectivaT, con sede en Barcelona, y SKAD, con sede en Estambul. Tiene como objetivo contribuir a la supervivencia de la lengua judeoespañola y la cultura sefardí en el espacio digital, mediante la implementación de tecnologías de código abierto y la creación de redes de organizaciones entre las dos orillas del Mediterráneo. Este trabajo ha de permitir, también, poner en valor y divulgar buenas prácticas de preservación digital que pueden ser de utilidad para otras lenguas y culturas minorizadas.
+“Judeoespañol: conectando las dos orillas del Mediterráneo” es un proyecto desarrollado conjuntamente por las entidades Col·lectivaT (Barcelona) y Centro de Investigación Cultural Sefardí (SKAD) (Estambul). Tiene como objetivo contribuir a la supervivencia del idioma judeoespañol y la cultura sefardí en el espacio digital, mediante la implementación de tecnologías de código abierto y la creación de redes de organizaciones entre las dos orillas del Mediterráneo. Este trabajo ha de permitir, también, poner en valor y divulgar buenas prácticas de preservación digital que pueden ser de utilidad para otras lenguas y culturas minorizadas.
 
 ## ¿En qué acciones se concreta?
 
@@ -22,37 +22,37 @@ Por un lado, pretende contribuir a la **supervivencia del idioma judeoespañol y
 
 Por otro lado, busca generar **consciencia sobre la comunidad sefardí** y el patrimonio cultural que ha logrado preservar, que es compartido por las poblaciones de ambas orillas del Mediterráneo.
 
-Para llevar a cabo este propósito general, el proyecto se concreta en distintas áreas de acción, que son fundamentales:
+Para llevar a cabo este objetivo general, el proyecto se concreta en distintas áreas de acción, que son fundamentales:
 
 - Incrementar el número de recursos lingüísticos y culturales disponibles y promover el consumo de contenido digital en judeoespañol.
-- Crear recursos de aprendizaje de la lengua.
+- Crear recursos digitales de aprendizaje de la lengua.
 - Digitalizar el patrimonio cultural y lingüístico de la comunidad sefardí y hacerlo accesible a través de un archivo digital.
 - Generar herramientas innovadoras de aprendizaje automático, específicamente para traducción automática y síntesis de voz del judeoespañol.
-- Crear consciencia crítica sobre la brecha digital que afrontan las lenguas minorizadas en España y Turquía, con especial énfasis en el judeoespañol.
+- Crear consciencia crítica sobre la brecha digital que afrontan los idiomas minorizados en España y Turquía, con especial énfasis en el judeoespañol.
 
 ## Productos y actividades 
 
 ### Portal web de SKAD
 
-Hemos actualizado y traducido la página del Centro de Investigación en Cultura Sefardí, mejorando la accesibilidad a recursos de idiomas y aplicaciones de tecnología del lenguaje generadas durante el proyecto.
+Hemos actualizado y traducido la página del SKAD, mejorando la accesibilidad a recursos de idiomas y aplicaciones de tecnología del lenguaje generadas durante el proyecto.
 
-[https://sefarad.com.tr/](https://sefarad.com.tr/)
+[https://sefarad.com.tr/](https://sefarad.com.tr/sp)
 
 ### Ladino Data Hub
 
 <p align="center"><img src="/img/blog/2022/datahub.png" alt="Ladino Data hub screenshot" width="60%"></p>
 
-Hemos creado la herramienta Ladino Data Hub a través de la compilación de datos del lenguaje como patrimonio general. Con esta aplicación centralizamos los datos disponibles sobre la cultura sefardí y la lengua ladina en un único punto de acceso abierto.
+Hemos creado la herramienta Ladino Data Hub a través de la compilación de datos del lenguaje como patrimonio general. Con esta aplicación centralizamos los datos disponibles sobre la cultura sefardí y el idioma judeoespañol en un único punto de acceso abierto.
 
-[https://data.sefarad.com.tr](https://data.sefarad.com.tr)
+[https://data.sefarad.com.tr/](https://data.sefarad.com.tr/es/)
 
-### Traductor automática con voz
+### Traductor automático con voz
 
 <p align="center"><img src="/img/blog/2022/translate.png" alt="Translator screenshot" width="90%"></p>
 
-Hemos generado una aplicación web para traducir del judeoespañol hacia y desde tres idiomas: el turco, el español y el inglés. Esta aplicación puede, además, convertir texto en voz a partir de sintetizar oraciones en judeoespañol. 
+Hemos generado una aplicación web para traducir del judeoespañol de y a tres idiomas: el turco, el español y el inglés. Esta aplicación puede, además, convertir texto en voz a partir de sintetizar oraciones en judeoespañol.
 
-[https://translate.sefarad.com.tr](https://translate.sefarad.com.tr)
+[https://translate.sefarad.com.tr/](https://translate.sefarad.com.tr/?locale=es)
 
 ### Aprendizaje del judeoespañol
 
@@ -66,19 +66,19 @@ Hemos realizado y difundido 300 vídeos cortos para el aprendizaje del judeoespa
 
 <p align="center"><img src="/img/blog/2022/language-toolkit.png" alt="Part of good practices document with Tifinagh Amazigh alphabet on google fonts" width="80%"></p>
 
-Hemos elaborado un documento de buenas prácticas digitales sobre la preservación digital del patrimonio cultural para hablantes, lingüistas e investigadoras de lenguas en peligro de extinción en España, Turquía y otros territorios. 
+Hemos elaborado un documento de buenas prácticas digitales sobre la preservación digital del patrimonio cultural para hablantes, lingüistas e investigadoras de idiomas en peligro de extinción en España, Turquía y otros territorios. 
 
 [https://language-toolkit.readthedocs.io/](https://language-toolkit.readthedocs.io/es/latest/)
 
 ### Talleres
 
-Hemos llevado a cabo cuatro talleres, en Turquía y España, con el título ‘Que ningún idioma se quede atrás de la era digital’. En ellos hemos compartido las experiencias y aprendizajes del proyecto y los métodos utilizados para la preservación y promoción del judeoespañol como lengua minorizada.
+Hemos llevado a cabo cuatro talleres, en Turquía y España, con el título ‘Que ningún idioma se quede atrás de la era digital’. En ellos hemos compartido las experiencias y aprendizajes del proyecto y los métodos utilizados para la preservación y promoción del judeoespañol como idioma minorizado.
 
 <p align="center"><img src="/img/blog/2022/workshops.jpeg" alt="Fotos desde talleres" width="100%"></p>
 
-### Mesas redondas
+### Rodas de premsa
 
-Hemos organizado dos mesas redondas, en Turquía y España, para compartir los resultados del proyecto con hablantes de idiomas minorizados de ambos territorios.
+Hemos organizado dos rodas de premsa en Turquía y España, ampliadas con mesas redondas, para compartir los resultados del proyecto con hablantes y/o investigadores de idiomas minorizados de ambos territorios y hablar sobre la brecha digital.
 
 <p align="center"><img src="/img/blog/2022/taularodona.jpeg" alt="Discusiones de mesas redondos"></p>
 
@@ -92,19 +92,19 @@ Hemos dado a conocer tanto los objetivos, actividades, resultados y productos de
 
 ## ¿Qué es la brecha digital lingüística?
 
-La brecha digital lingüística hace referencia a la desigual distribución de recursos entre las lenguas hegemónicas y las que cuentan con menor número de hablantes y apoyo institucional en cuanto a la accesibilidad, el uso y el impacto de las tecnologías de la información y la comunicación. En este sentido, solo el 5% de los idiomas del mundo están representados en el entorno virtual. 
+La brecha digital lingüística hace referencia a la desigual distribución de recursos entre los idiomas hegemónicos y los que cuentan con menor número de hablantes y apoyo institucional en cuanto a la accesibilidad, el uso y el impacto de las tecnologías de la información y la comunicación. En este sentido, solo el 5% de los idiomas del mundo están representados en el entorno virtual. 
 
-Frente al peligro de extinción digital de las lenguas minorizadas y la infrarrepresentación de la diversidad, las tecnologías de código abierto son una herramienta clave para promover la transmisión intergeneracional de las tradiciones lingüísticas y culturales. 
+Frente al peligro de extinción digital de los idiomas minorizados y la infrarrepresentación de la diversidad, las tecnologías de código abierto son una herramienta clave para promover la transmisión intergeneracional de las tradiciones lingüísticas y culturales. 
 
-El proyecto “Judeoespañol: conectando ambas orillas del Mediterráneo” reivindica el uso de la tecnología para empoderar a hablantes de un idioma minorizado que está en peligro de extinción y para vincular, después de cientos de años, dos territorios unidos por una historia de migración forzada.
+El proyecto “Judeoespañol: conectando las dos orillas del Mediterráneo” reivindica el uso de la tecnología para empoderar a hablantes de un idioma minorizado que está en peligro de extinción y para vincular, después de cientos años, dos territorios unidos por una historia de migración forzada.
 
-## ¿Qué son la lengua judeoespañola y la cultura sefardí?
+## ¿Qué son el idioma judeoespañol y la cultura sefardí?
 
-El judeoespañol es una lengua minorizada y en peligro de extinción, que deriva del castellano antiguo y ha recibido la influencia del hebreo. La comunidad sefardí, descendiente del pueblo judío expulsado de España por la Inquisición hace más de 500 años y refugiado en el Imperio Otomano y otros territorios del mundo, habla y ha logrado preservar el judeoespañol. En la actualidad, la lengua y la cultura sefardíes forman parte del patrimonio común del Mediterráneo, la Península Ibérica y Anatolia.
+El judeoespañol es un idioma minorizado y en peligro de extinción, que deriva del castellano antiguo y ha recibido la influencia de los idiomas de los territorios que han acogido la diàspora sefardí. La comunidad sefardí, descendiente del pueblo judío expulsado de España por la Inquisición hace más de 500 años y refugiado en el Imperio Otomano y otros territorios del mundo, habla y ha logrado preservar el judeoespañol. En la actualidad, el idioma y la cultura sefardíes forman parte del patrimonio cultural común del Mediterráneo, la Península Ibérica y Anatolia.
 
 ## ¿Quién lo finanza?
 
-El proyecto ‘Judeoespañol: Lengua que conecta las dos orillas del Mediterráneo’ está financiado en el marco del “Programa de Subvenciones para el Patrimonio Cultural Común: Preservación y Diálogo entre Turquía y la UE (CCH-II)” implementado por el Ministerio de Cultura y Turismo de la República de Turquía con el apoyo financiero de la Unión Europea. El “Programa de Subvenciones para el Patrimonio Cultural Común: Preservación y Diálogo entre Turquía y la UE (CCH-II)” tiene como objetivo la promoción y mejora de las actividades del patrimonio cultural común implementadas en asociación entre organizaciones turcas y de la UE. El Ministerio de Cultura y Turismo es la institución responsable de la ejecución técnica del Programa de Régimen de Subvenciones, mientras que la Unidad Central de Finanzas y Contratos es el Órgano de Contratación.
+El proyecto “Judeoespañol: conectando las dos orillas del Mediterráneo” está financiado en el marco del “Programa de Subvenciones para el Patrimonio Cultural Común: Preservación y Diálogo entre Turquía y la UE (CCH-II)” implementado por el Ministerio de Cultura y Turismo de la República de Türkiye con el apoyo financiero de la Unión Europea. El “Programa de Subvenciones para el Patrimonio Cultural Común: Preservación y Diálogo entre Turquía y la UE (CCH-II)” tiene como objetivo la promoción y mejora de las actividades del patrimonio cultural común implementadas conuntamente entre organizaciones turcas y de la UE. El Ministerio de Cultura y Turismo es la institución responsable de la ejecución técnica del Programa de Subvenciones, mientras que la Unidad Central de Finanzas y Contratos es el órgano de contratación.
 
 <p align="center"><img src="/img/blog/2022/eu_project_logos.png" alt="Logos de entidades patrocinadores" width="80%"></p>
 
@@ -116,6 +116,6 @@ El proyecto ‘Judeoespañol: Lengua que conecta las dos orillas del Mediterrán
 
 --- 
 
-Esta página web ha sido creada con el apoyo financiero de la Unión Europea. El contenido de este sitio web es responsabilidad exclusiva de Col·lectivaT y SKAD y no refleja necesariamente los puntos de vista de la Unión Europea.
+Esta página web ha sido creada con el apoyo financiero de la Unión Europea. El contenido de este sitio web es responsabilidad exclusiva de Col·lectivaT y SKAD, y no refleja necesariamente los puntos de vista de la Unión Europea.
 
 
