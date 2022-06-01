@@ -90,6 +90,10 @@ We have publicized both the objectives, activities, results and products of the 
 
 ["Preservar el judeocastellà: el projecte que vol salvar en el món digital un castellà desvinculat d’Espanya durant 500 anys" in Mozaika](https://mozaika.es/magazine/preservar-el-judeocastella-el-projecte-que-vol-salvar-en-el-mon-digital-un-castella-desvinculat-despanya-durant-500-anys/)
 
+["Extinció digital o revitalització i espai de contrapoder?" in Nationalia](https://www.nationalia.cat/noticia/11482/extincio-digital-o-revitalitzacio-i-espai-de-contrapoder)
+
+["Judeoespañol: conectando ambas orillas del Mediterráneo, con Col·lectivaT" in Radio Sefarad](https://www.radiosefarad.com/judeoespanol-conectando-ambas-orillas-del-mediterraneo-con-collectiva-t/)
+
 ## What does linguistic digital divide mean?
 
 The linguistic digital divide refers to the unequal distribution of resources between the hegemonic languages and those with fewer speakers and institutional support in terms of accessibility, use and impact of information and communication technologies. In this sense, only 5% of the world's languages are represented in the virtual environment.

@@ -90,6 +90,11 @@ Hemos dado a conocer tanto los objetivos, actividades, resultados y productos de
 
 ["Preservar el judeocastellà: el projecte que vol salvar en el món digital un castellà desvinculat d’Espanya durant 500 anys" en Mozaika](https://mozaika.es/magazine/preservar-el-judeocastella-el-projecte-que-vol-salvar-en-el-mon-digital-un-castella-desvinculat-despanya-durant-500-anys/)
 
+["Extinció digital o revitalització i espai de contrapoder?" en Nationalia](https://www.nationalia.cat/noticia/11482/extincio-digital-o-revitalitzacio-i-espai-de-contrapoder)
+
+["Judeoespañol: conectando ambas orillas del Mediterráneo, con Col·lectivaT" en Radio Sefarad](https://www.radiosefarad.com/judeoespanol-conectando-ambas-orillas-del-mediterraneo-con-collectiva-t/)
+
+
 ## ¿Qué es la brecha digital lingüística?
 
 La brecha digital lingüística hace referencia a la desigual distribución de recursos entre los idiomas hegemónicos y los que cuentan con menor número de hablantes y apoyo institucional en cuanto a la accesibilidad, el uso y el impacto de las tecnologías de la información y la comunicación. En este sentido, solo el 5% de los idiomas del mundo están representados en el entorno virtual. 
