@@ -20,7 +20,7 @@ El proyecto tiene un doble objetivo general:
 
 Por un lado, pretende contribuir a la **supervivencia del idioma judeoespañol y de la cultura sefardí en el espacio digital**, a través de la creación de redes entre organizaciones de la sociedad civil de Turquía y España y de la mejora de su conocimiento en buenas prácticas digitales.
 
-Por otro lado, busca generar **consciencia sobre la comunidad sefardí** y el patrimonio cultural que ha logrado preservar, que es compartido por las poblaciones de ambas orillas del Mediterráneo.
+Por otro lado, busca generar **conciencia sobre la comunidad sefardí** y el patrimonio cultural que ha logrado preservar, que es compartido por las poblaciones de ambas orillas del Mediterráneo.
 
 Para llevar a cabo este objetivo general, el proyecto se concreta en distintas áreas de acción, que son fundamentales:
 
@@ -76,9 +76,9 @@ Hemos llevado a cabo cuatro talleres, en Turquía y España, con el título ‘Q
 
 <p align="center"><img src="/img/blog/2022/workshops.jpeg" alt="Fotos desde talleres" width="100%"></p>
 
-### Rodas de premsa
+### Ruedas de prensa
 
-Hemos organizado dos rodas de premsa en Turquía y España, ampliadas con mesas redondas, para compartir los resultados del proyecto con hablantes y/o investigadores de idiomas minorizados de ambos territorios y hablar sobre la brecha digital.
+Hemos organizado dos ruedas de prensa en Turquía y España, ampliadas con mesas redondas, para compartir los resultados del proyecto con hablantes y/o investigadores de idiomas minorizados de ambos territorios y hablar sobre la brecha digital.
 
 <p align="center"><img src="/img/blog/2022/taularodona.jpeg" alt="Discusiones de mesas redondos"></p>
 
@@ -107,7 +107,7 @@ El proyecto “Judeoespañol: conectando las dos orillas del Mediterráneo” re
 
 El judeoespañol es un idioma minorizado y en peligro de extinción, que deriva del castellano antiguo y ha recibido la influencia de los idiomas de los territorios que han acogido la diàspora sefardí. La comunidad sefardí, descendiente del pueblo judío expulsado de España por la Inquisición hace más de 500 años y refugiado en el Imperio Otomano y otros territorios del mundo, habla y ha logrado preservar el judeoespañol. En la actualidad, el idioma y la cultura sefardíes forman parte del patrimonio cultural común del Mediterráneo, la Península Ibérica y Anatolia.
 
-## ¿Quién lo finanza?
+## ¿Quién lo financia?
 
 El proyecto “Judeoespañol: conectando las dos orillas del Mediterráneo” está financiado en el marco del “Programa de Subvenciones para el Patrimonio Cultural Común: Preservación y Diálogo entre Turquía y la UE (CCH-II)” implementado por el Ministerio de Cultura y Turismo de la República de Türkiye con el apoyo financiero de la Unión Europea. El “Programa de Subvenciones para el Patrimonio Cultural Común: Preservación y Diálogo entre Turquía y la UE (CCH-II)” tiene como objetivo la promoción y mejora de las actividades del patrimonio cultural común implementadas conuntamente entre organizaciones turcas y de la UE. El Ministerio de Cultura y Turismo es la institución responsable de la ejecución técnica del Programa de Subvenciones, mientras que la Unidad Central de Finanzas y Contratos es el órgano de contratación.
 
@@ -115,7 +115,7 @@ El proyecto “Judeoespañol: conectando las dos orillas del Mediterráneo” es
 
 #### Contacto
  
-[Col·lectivaT](mailto:info@collectivat.com)
+[Col·lectivaT](mailto:info@collectivat.cat)
 
 [SKAD](mailto:sephardiccenter@gmail.com)
 

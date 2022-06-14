@@ -114,7 +114,7 @@ Judeo-Spanish is a minority language and in danger of extinction, which derives 
 
 #### Contact
  
-[Col·lectivaT](mailto:info@collectivat.com)
+[Col·lectivaT](mailto:info@collectivat.cat)
 
 [SKAD](mailto:sephardiccenter@gmail.com)
 

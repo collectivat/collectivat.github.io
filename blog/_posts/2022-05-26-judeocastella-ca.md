@@ -114,12 +114,10 @@ El projecte 'Judeoespanyol: Llengua que connecta les dues ribes del Mediterrani'
 
 #### Contacto
  
-[Col·lectivaT](mailto:info@collectivat.com)
+[Col·lectivaT](mailto:info@collectivat.cat)
 
 [SKAD](mailto:sephardiccenter@gmail.com)
 
 --- 
 
-Esta página web ha sido creada con el apoyo financiero de la Unión Europea. El contenido de este sitio web es responsabilidad exclusiva de Col·lectivaT y SKAD y no refleja necesariamente los puntos de vista de la Unión Europea.
-
-
+<p style="text-align: center;">Esta página web ha sido creada con el apoyo financiero de la Unión Europea. El contenido de este sitio web es responsabilidad exclusiva de Col·lectivaT y SKAD y no refleja necesariamente los puntos de vista de la Unión Europea.</p>
