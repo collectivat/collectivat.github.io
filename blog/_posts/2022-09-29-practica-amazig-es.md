@@ -15,6 +15,10 @@ _En esta publicación de blog, **Yousra Bargach** describe su trabajo y sus apre
 
 Durante el máster de Traducción y Tecnologías que estoy realizando en la UOC, he tenido la oportunidad de cursar una asignatura de prácticas. Apliqué a varias prácticas dentro y fuera de la UOC y tuve la suerte de que me escogieran para hacer las prácticas en Col·lectivaT. Col·lectivaT es una cooperativa sin ánimo de lucro formada por profesionales del ámbito del conocimiento que proporciona servicios integrales de traducción cultural, de investigación, y servicios tecnológicos para el trabajo colaborativo y lingüístico. En la primera toma de contacto, Alp Öktem, mi tutor de las prácticas, me envió un correo electrónico preguntando si yo hablaba amazig. Amazig es el idioma hablado por los grupos de bereberes en África del Norte por unos 38 millones de personas. Antiguamente se escribía usando la escritura líbico-bereber al menos desde el siglo III a. C. y que sigue existiendo ahora en la forma del tifinagh. Este era utilizado tradicionalmente por los tuareg y ha sido revivido recientemente por instituciones y movimientos culturales berberistas.
 
+
+<p align="center"><img src="/img/blog/2022/amazic.png" width="95%" alt="Mapa linguistica de lengua amazig"></p>
+<p style="text-align: center;">Mapa linguistica de lengua amazig (fuente: http://www.amazic.cat)</p>
+
 <p style="text-align: center;">
 <span style="font-weight:700;font-size:25px">
     <i>"Amazig es el idioma hablado por los grupos de bereberes en África del Norte por unos 38 millones de personas."</i>
