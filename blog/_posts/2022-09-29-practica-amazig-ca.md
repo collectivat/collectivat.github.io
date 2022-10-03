@@ -7,7 +7,7 @@ lang: ca
 summary: "Yousra Bargach explica la seva feina durant les seves practiques a Col·lectivaT"
 ---
 
-_En aquesta publicació de bloc, **Yousra Bargach** descriu el seu treball i els seus aprenentatges al voltant de la recopilació de dades lingüístiques per a l'idioma amazic durant les seves pràctiques a Col·lectivaT a la primavera del 2022. El publiquem en el seu idioma original._
+_En aquesta publicació de bloc, **Yousra Bargach**, estudiant de màster d'Universitat Oberta de Catalunya, descriu el seu treball i els seus aprenentatges al voltant de la recopilació de dades lingüístiques per a l'idioma amazic durant les seves pràctiques a Col·lectivaT a la primavera del 2022. La publiquem en el seu idioma original._
 
 <p align="center"><img src="/img/blog/2022/tamazight.jpg" alt="Un libro escrito en Amazig" width="80%"></p>
 
