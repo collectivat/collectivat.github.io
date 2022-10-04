@@ -38,13 +38,11 @@ Mis tareas incluía buscar contactos de amazig de mi entorno, pedirles contactos
 
 A continuación, describiré en qué consiste este proyecto y sobre qué se basa. Actualmente, existe una creciente brecha digital entre los idiomas que cuentan con suficientes recursos y los idiomas con menos recursos, lo que agrava aún más el peligro de extinción digital para ellos. Para la mayoría de los idiomas, el proceso de generar herramientas y recursos útiles es mucho más fácil debido a su gran presencia en la web. Sin embargo, muchos idiomas minoritarios y/o minorizados no tienen suficientes recursos materiales ni humanos para impulsar la creación de esas herramientas. La falta de apoyo estatal, de la visibilidad pública, y de la opresión social e institucional son las causas directas de que estos idiomas no tengan prioridad en los actuales espacios digitales.
 
-
 <p style="text-align: center;">
 <span style="font-weight:700;font-size:25px">
     <i>"La falta de apoyo estatal, de la visibilidad pública, y de la opresión social e institucional son las causas directas de que estos idiomas no tengan prioridad en los actuales espacios digitales."</i>
 </span>
 </p>
-
 
 Los esfuerzos sobre la preservación de idiomas se centran principalmente en la documentación lingüística, la enseñanza, y la construcción de comunidad. Un área a la que no se le da importancia es la creación de herramientas basadas en la inteligencia artificial. Herramientas como la traducción automática, la síntesis de voz y el reconocimiento de voz son ahora importantes en la creación de interfaces humano-máquina. Además, estas herramientas pueden ayudar a modelar el conocimiento de los idiomas en peligro de extinción, y preservarlos para las generaciones futuras.
 
@@ -69,7 +67,7 @@ La traducción automática (TA) es un área de la lingüística computacional qu
 
 <p style="text-align: center;">
 <span style="font-weight:700;font-size:25px">
-    <i>"Los recursos disponibles para un idioma influyen directamente en la posibilidad de desarrollar una aplicación para un idioma. Como el mayor recurso de datos textuales es Internet, y está dominado por unos cuantos idiomas, estas tecnologías tienden a centrarse solo en algunos idiomas dominantes, por ejemplo, inglés, español, chino, árabe, etc."</i>
+    <i>"Como el mayor recurso de datos textuales es Internet, y está dominado por unos cuantos idiomas, estas tecnologías tienden a centrarse solo en algunos idiomas dominantes, por ejemplo, inglés, español, chino, árabe, etc."</i>
 </span>
 </p>
 
@@ -95,3 +93,7 @@ Todas esas traducciones de las instituciones mencionadas anteriormente serán de
 En general, se puede decir que he aprendido a cómo empezar de cero un proyecto y cómo poder ir recopilando información poco a poco. He aprendido a buscar contactos interesantes de la lengua amaziga y pedirles ayuda para que nos proporcionen material o bien a través de otros contactos. Cada uno de esos contactos me ha podido ayudar hasta que hemos podido dar con el traductor de amazig. También he aprendido a buscar recursos en este idioma como, por ejemplo, páginas web, diccionarios o artículos en amazig. Por otra parte, he aprendido a buscar los contactos de las instituciones que nos interesan para así poder crear una colaboración con ellas y que nos proporcionen datos para así crear el traductor automático. Estoy satisfecha con estas prácticas realizadas en Col·lectivaT y les agradezco que me hayan dado esta oportunidad para aprender con ellos.
 
 _Yousra Bargach_
+
+---
+
+_Si quieres colaborar con Col·lectivaT o hacer tus prácticas aquí, escríbenos a [info@collectivat.cat](mailto:info@collectivat.cat)._

@@ -67,7 +67,7 @@ La traducción automática (TA) es un área de la lingüística computacional qu
 
 <p style="text-align: center;">
 <span style="font-weight:700;font-size:25px">
-    <i>"Los recursos disponibles para un idioma influyen directamente en la posibilidad de desarrollar una aplicación para un idioma. Como el mayor recurso de datos textuales es Internet, y está dominado por unos cuantos idiomas, estas tecnologías tienden a centrarse solo en algunos idiomas dominantes, por ejemplo, inglés, español, chino, árabe, etc."</i>
+    <i>"Como el mayor recurso de datos textuales es Internet, y está dominado por unos cuantos idiomas, estas tecnologías tienden a centrarse solo en algunos idiomas dominantes, por ejemplo, inglés, español, chino, árabe, etc."</i>
 </span>
 </p>
 
@@ -93,3 +93,7 @@ Todas esas traducciones de las instituciones mencionadas anteriormente serán de
 En general, se puede decir que he aprendido a cómo empezar de cero un proyecto y cómo poder ir recopilando información poco a poco. He aprendido a buscar contactos interesantes de la lengua amaziga y pedirles ayuda para que nos proporcionen material o bien a través de otros contactos. Cada uno de esos contactos me ha podido ayudar hasta que hemos podido dar con el traductor de amazig. También he aprendido a buscar recursos en este idioma como, por ejemplo, páginas web, diccionarios o artículos en amazig. Por otra parte, he aprendido a buscar los contactos de las instituciones que nos interesan para así poder crear una colaboración con ellas y que nos proporcionen datos para así crear el traductor automático. Estoy satisfecha con estas prácticas realizadas en Col·lectivaT y les agradezco que me hayan dado esta oportunidad para aprender con ellos.
 
 _Yousra Bargach_
+
+---
+
+_Si vols col.laborar amb Col.lectivaT o vols fer pràctiques aquí, escriu-nos a [info@collectivat.cat](mailto:info@collectivat.cat)._
