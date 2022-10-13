@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Teixint xarxes per digitalitzar la llengua Amazig"
+title: "Tejiendo redes para digitalizar la lengua Amazig"
 ref: practicasamazig
 thumbnail: /img/blog/2022/tamazight.jpg
 lang: es
