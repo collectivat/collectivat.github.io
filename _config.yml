@@ -416,6 +416,16 @@ people:
       social:
         - title: twitter
           url: https://twitter.com/collectivat
+    - name: Clara Basiana
+      pic: 4
+      position:
+        en: Communication
+        ca: Comunicació
+        es: Comunicación
+      social:
+        - title: twitter
+          url: https://twitter.com/clarabasiana
+
   footer:
     en: We also collaborate with many other professionals, not only in Catalunya but also in Turkey.
     ca: També col·laborem amb molts altres professionals, no només a Catalunya, sinó també a Turquia.
@@ -426,7 +436,7 @@ social:
   - title: twitter
     url: https://twitter.com/collectivat
   - title: github
-    url: https://github.com/collectivat
+    url: https://github.com/collectivat-dev
   - title: linkedin
     url: https://www.linkedin.com/company/collectivat
 

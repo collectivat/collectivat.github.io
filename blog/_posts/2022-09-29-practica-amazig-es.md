@@ -7,7 +7,7 @@ lang: es
 summary: "Yousra Bargach explica su trabajo durante sus practicas en Col·lectivaT"
 ---
 
-_En esta publicación de blog, **Yousra Bargach**, estudiante de master de Universitat Oberta de Catalunya, describe su trabajo y sus aprendizajes en torno a la recopilación de datos lingüísticos para el idioma amazig durante sus prácticas en Col·lectivaT en la primavera del 2022._
+_En esta publicación de blog, **Yousra Bargach**, estudiante de máster de Universitat Oberta de Catalunya, describe su trabajo y sus aprendizajes en torno a la recopilación de datos lingüísticos para el idioma amazig durante sus prácticas en Col·lectivaT en la primavera del 2022._
 
 <p align="center"><img src="/img/blog/2022/tamazight.jpg" alt="Un libro escrito en Amazig" width="80%"></p>
 
