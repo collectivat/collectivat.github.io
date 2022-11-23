@@ -2,14 +2,14 @@
 layout: post
 title: "Projecte Araina - votzes en aranés"
 ref: iniciaraina
-thumbnail: /img/blog/2022/arainainici.jpg
+thumbnail: /img/blog/2022/arainainici.png
 lang: ca
 summary: "Arrenca el projecte Araina que impulsarà tecnologies de la parla en aranès"
 ---
 
 <br>
 
-<p align="center"><img src="/img/blog/2022/arainainici.jpg" alt="Imatge projecte araina" width="80%"></p>
+<p align="center"><img src="/img/blog/2022/arainainici.png" alt="Imatge projecte araina" width="80%"></p>
 
 <iframe src="/player/player.html?file=/blog/audio/2022-11-21-inici-projecte-araina.mp3&title=Escolta aquest article amb Catotron" type="text/html" width="100%" allowfullscreen></iframe>
 
@@ -29,9 +29,9 @@ El desenvolupament del reconeixement automàtic de veu, un component necessari e
 
 A dia d'avui, no existeix aquest corpus per a l’aranès. Per posar-hi remei, Col·lectivaT llançarà l'aranès en les plataformes de recollida de dades de veu Common Voice de Mozilla i ReVOc de Lo Congrès. Això permetrà al públic de parla aranesa contribuir al desenvolupament d'aquestes tecnologies donant les seves mostres de veu. 
 
-## Marató de veu
+## Marató de veus
 
-<img align="right" src="/img/blog/2022/arainacalendari.png" alt="Box - Icon from the Feather Icons set, by Cole Bemis - Expat License - MIT License" width="133" height="133"> Per a fer arribar el projecte al públic s’organitzarà un esdeveniment col·lectiu per iniciar la recollida massiva de dades orals. La marató de veu se celebrarà de manera virtual i física el __17 de desembre de 2022 a la Vall d'Aran__ i reunirà les primeres persones voluntàries que estiguin disposades a donar la seva veu. Mitjançant la marató de veu i una campanya de comunicació, s’espera també augmentar la sensibilitat del públic vers l'aranès i conscienciar de la necessitat de desenvolupar tecnologies de la parla en llengües minoritzats.
+<img align="right" src="/img/blog/2022/arainacalendari.png" alt="Box - Icon from the Feather Icons set, by Cole Bemis - Expat License - MIT License" width="133" height="133"> Per a fer arribar el projecte al públic s’organitzarà una _marató de veus_ per enregistrar la veu de persones de parla aranesa de diverses edats, varietats dialectals i registres. El esdeveniment se celebrarà de manera virtual i física el __17 de desembre de 2022 a la Vall d'Aran__ i reunirà les primeres persones voluntàries que estiguin disposades a donar la seva veu. Mitjançant la marató de veu i una campanya de comunicació, s’espera també augmentar la sensibilitat del públic vers l'aranès i conscienciar de la necessitat de desenvolupar tecnologies de la parla en llengües minoritzats.
 
 <br>
 <img src="/img/logo_generalitat.png" width="40%"/>
