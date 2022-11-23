@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Projecte Araina - votzes en aranés"
+title: "Araina: Votzes en aranés"
 ref: iniciaraina
 thumbnail: /img/blog/2022/arainainici.png
 lang: ca
