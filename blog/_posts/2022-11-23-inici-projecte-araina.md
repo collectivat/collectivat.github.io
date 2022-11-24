@@ -27,11 +27,12 @@ El desenvolupament del reconeixement automàtic de veu, un component necessari e
 
 ## Cap a un corpus de parla aranès impulsat per la comunitat.
 
-A dia d'avui, no existeix aquest corpus per a l’aranès. Per posar-hi remei, Col·lectivaT llançarà l'aranès en les plataformes de recollida de dades de veu Common Voice de Mozilla i ReVOc de Lo Congrès. Això permetrà al públic de parla aranesa contribuir al desenvolupament d'aquestes tecnologies donant les seves mostres de veu. 
+A dia d'avui, no existeix aquest corpus per a l’aranès. Per posar-hi remei, Col·lectivaT llançarà l'aranès en les plataformes de recollida de dades de veu [Common Voice](https://commonvoice.mozilla.org/oc) de Mozilla i [ReVOc](https://contribuir.locongres.com/revoc/index.php) de Lo Congrès. Això permetrà al públic de parla aranesa contribuir al desenvolupament d'aquestes tecnologies donant les seves mostres de veu. 
 
 ## Marató de veus
 
-<img align="right" src="/img/blog/2022/arainacalendari.png" alt="Box - Icon from the Feather Icons set, by Cole Bemis - Expat License - MIT License" width="133" height="133"> Per a fer arribar el projecte al públic s’organitzarà una _marató de veus_ per enregistrar la veu de persones de parla aranesa de diverses edats, varietats dialectals i registres. El esdeveniment se celebrarà de manera virtual i física el __17 de desembre de 2022 a la Vall d'Aran__ i reunirà les primeres persones voluntàries que estiguin disposades a donar la seva veu. Mitjançant la marató de veu i una campanya de comunicació, s’espera també augmentar la sensibilitat del públic vers l'aranès i conscienciar de la necessitat de desenvolupar tecnologies de la parla en llengües minoritzats.
+<img align="right" src="/img/blog/2022/arainacalendari.png" alt="Box - Icon from the Feather Icons set, by Cole Bemis - Expat License - MIT License" width="133" height="133"> 
+Per a fer arribar el projecte al públic s’organitzarà una _marató de veus_ per enregistrar la veu de persones de parla aranesa de diverses edats, varietats dialectals i registres. L'esdeveniment es celebrarà de manera virtual i física el __17 de desembre de 2022 a la Vall d'Aran__ i reunirà les primeres persones voluntàries que estiguin disposades a donar la seva veu. Mitjançant la marató de veu i una campanya de comunicació, s’espera també augmentar la sensibilitat del públic vers l’aranès i conscienciar de la necessitat de desenvolupar tecnologies de la parla en llengües minoritzades.
 
 <br>
 <img src="/img/logo_generalitat.png" width="40%"/>
