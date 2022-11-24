@@ -43,3 +43,6 @@ Icon
 .Trashes
 
 trash
+
+img/.jekyll-cache
+.jekyll-cache
