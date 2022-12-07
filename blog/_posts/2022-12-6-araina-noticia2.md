@@ -15,7 +15,7 @@ summary: "El 17 de desembre tindrà lloc a Vielha la primera marató de veus per
 
 ## El 17 de desembre tindrà lloc a Vielha la primera marató de veus per enregistrar veus de parlants de l’aranès
 
-Ara com ara no és possible que les màquines parlin o entenguin aranès. Perquè això sigui possible es necessita una base de dades amb centenars de gravacions de veus en aquesta llengua. Per posar-hi remei, des de Col·lectivaT hem posat en marxa el [_Projecte Araina, votzes en aranés_](https://www.projecte-araina.org/) per promoure la **creació del primer corpus de veu en aranès a partir de la participació col·lectiva.** 
+Ara com ara no és possible que les màquines parlin o entenguin aranès. Perquè això sigui possible es necessita una base de dades amb centenars de gravacions de veus en aquesta llengua. Per posar-hi remei, des de Col·lectivaT hem posat en marxa el [_Projecte Araina: votzes en aranés_](https://www.projecte-araina.org/) per promoure la **creació del primer corpus de veu en aranès a partir de la participació col·lectiva.** 
 
 <p style="text-align: center;">
 <span style="font-weight:700;font-size:25px">
@@ -29,13 +29,13 @@ Per començar a recollir hores de veu en aranès, s’ha organitzat una marató 
 
 <p style="text-align: center;">
 <span style="font-weight:700;font-size:25px">
-    <i>Inscriu-te a la marató de veu a través de <a href="https://www.projecte-araina.org/">project-araina.org</a></i>
+    <i>Inscriu-te a la marató de veu a través de <a href="https://www.projecte-araina.org/">projecte-araina.org</a></i>
 </span>
 </p>
 
 <img align="right" src="/img/blog/2022/Noia_1.png" alt="Speech bubble" width="250" height="250"> Les persones voluntàries hauran de llegir diversos fragments de text projectats a la seva pantalla mentre es graven. Els textos introduïts per fer l’exercici són de les obres literàries clàssiques traduïdes a l’aranès per [Antòni Nogués](http://www.institutestudisaranesi.cat/colleccion-antoni-nogues/#1541013646532-338ed5f5-a3aa). Tot aquest procés es realitza a través de la plataforma oberta [**Common Voice**](commonvoice.mozilla.org/oc) tal com s’està fent amb el [Projecte Aina](https://www.projecteaina.cat/), que ja porta més de 2.500 hores de veus recollides en català.
 
-# Roda de premsa de Presentació del Projecte Araina, votzes en aranés
+# Roda de premsa de Presentació del Projecte Araina: votzes en aranés
 
 El mateix 17 de desembre tindrà lloc una roda de premsa per donar a conèixer el Projecte Araina i el seu camp de treball amb les persones responsables del projecte. L’esdeveniment serà a les 11:30h a Vielha, confirmarem l’adreça de l’espai properament.
 
