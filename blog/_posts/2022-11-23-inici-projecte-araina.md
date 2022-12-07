@@ -31,7 +31,7 @@ A dia d'avui, no existeix aquest corpus per a l’aranès. Per posar-hi remei, C
 
 ## Marató de veus
 
-<img align="right" src="/img/blog/2022/arainacalendari.png" alt="Box - Icon from the Feather Icons set, by Cole Bemis - Expat License - MIT License" width="133" height="133"> 
+<img align="right" src="/img/blog/2022/arainacalendari.png" alt="Calendari 17 de desembre" width="133" height="133"> 
 Per a fer arribar el projecte al públic s’organitzarà una _marató de veus_ per enregistrar la veu de persones de parla aranesa de diverses edats, varietats dialectals i registres. L'esdeveniment es celebrarà de manera virtual i física el __17 de desembre de 2022 a la Vall d'Aran__ i reunirà les primeres persones voluntàries que estiguin disposades a donar la seva veu. Mitjançant la marató de veu i una campanya de comunicació, s’espera també augmentar la sensibilitat del públic vers l’aranès i conscienciar de la necessitat de desenvolupar tecnologies de la parla en llengües minoritzades.
 
 <br>
