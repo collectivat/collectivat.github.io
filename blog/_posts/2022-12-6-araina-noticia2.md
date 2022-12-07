@@ -15,7 +15,7 @@ summary: "El 17 de desembre tindrà lloc a Vielha la primera marató de veus per
 
 ## El 17 de desembre tindrà lloc a Vielha la primera marató de veus per enregistrar veus de parlants de l’aranès
 
-Ara com ara no és possible que les màquines parlin o entenguin aranès. Perquè això sigui possible es necessita una base de dades amb centenars de gravacions de veus en aquesta llengua. Per posar-hi remei, des de Col·lectivaT hem posat en marxa el [_Projecte Araina: votzes en aranés_](https://www.projecte-araina.org/) per promoure la **creació del primer corpus de veu en aranès a partir de la participació col·lectiva.** 
+Ara com ara no és possible que les màquines parlin o entenguin aranès. Perquè això sigui possible es necessita una base de dades amb centenars de gravacions de veus en aquesta varietat de la llengua occitana. Per posar-hi remei, des de Col·lectivaT hem posat en marxa el [_Projecte Araina: votzes en aranés_](https://www.projecte-araina.org/) per promoure la **creació del primer corpus de veu en aranès a partir de la participació col·lectiva.** 
 
 <p style="text-align: center;">
 <span style="font-weight:700;font-size:25px">
@@ -25,7 +25,7 @@ Ara com ara no és possible que les màquines parlin o entenguin aranès. Perqu�
 
 # Marató de veus a Vielha: cap a un corpus de parla en aranès impulsat per la comunitat
 
-Per començar a recollir hores de veu en aranès, s’ha organitzat una marató de veus per enregistrar la veu de persones de parla en aranès de diverses edats, registres i parlars. L'esdeveniment se celebrarà el **dissabte 17 de desembre de 10 a 14h a Vielha** (espai per confirmar) i reunirà les primeres persones voluntàries que estiguin disposades a donar la seva veu. **També hi haurà l’opció de participar-hi de forma virtual durant tot el cap de setmana.**
+Per començar a recollir hores de veu en aranès, hem organitzat una marató de veus on s’enregistrarà la veu de persones de parla en aranès de diverses edats, registres i parlars. L'esdeveniment se celebrarà el **dissabte 17 de desembre de 10 a 14h a Vielha** (espai per confirmar) i reunirà les primeres persones voluntàries que estiguin disposades a donar la seva veu. **També hi haurà l’opció de participar-hi de forma virtual durant tot el cap de setmana.**
 
 <p style="text-align: center;">
 <span style="font-weight:700;font-size:25px">
@@ -37,7 +37,7 @@ Per començar a recollir hores de veu en aranès, s’ha organitzat una marató 
 
 # Roda de premsa de Presentació del Projecte Araina: votzes en aranés
 
-El mateix 17 de desembre tindrà lloc una roda de premsa per donar a conèixer el Projecte Araina i el seu camp de treball amb les persones responsables del projecte. L’esdeveniment serà a les 11:30h a Vielha, confirmarem l’adreça de l’espai properament.
+El mateix 17 de desembre tindrà lloc una roda de premsa per donar a conèixer el Projecte Araina i el seu camp de treball amb les persones responsables del projecte. L’esdeveniment serà a les 11:30h a Vielha (espai per confirmar).
 
 # Common Voice en marxa per aranès
 
@@ -51,9 +51,9 @@ L'aranès ha estat una de les últimes llengües integrades gràcies a la col·l
 
 En el marc del Projecte Araina estem posant en marxa **el primer gran corpus de text en aranès format per 3,6 milions de paraules** procedents de textos literaris, material d'aprenentatge de llengües i text administratiu cedit pel Conselh Generau d'Aran.
 
-Aquest corpus de text permetrà entrenar models de llenguatge, que és un component necessari per construir la tecnologia com reconeixement de veu, reconeixement d'escriptura a mà i molt més.
+Aquest corpus de text permetrà entrenar models de llenguatge, que és un component necessari per construir tecnologies com el reconeixement de veu i el reconeixement d'escriptura entre altres.
 
-Els models de llenguatge basats en xarxes neuronals estan revolucionant actualment el panorama de la intel·ligència artificial. Poden capturar el coneixement del mar de dades de text disponibles a través de la web i posar-los en ús mitjançant sistemes de preguntes i respostes, escriptura assistida, traducció automàtica, generació d'imatges i vídeos. Tot i que, els models llançats i compartits per les empreses tecnològiques se centren principalment en l'anglès i altres idiomes majoritaris. Aquest corpus permetrà entrenar o afinar aquests models per servir aranès.
+Els models de llenguatge basats en xarxes neuronals estan revolucionant actualment el panorama de la intel·ligència artificial. Poden capturar el coneixement del mar de dades de text disponibles a través de la web i posar-los en ús mitjançant sistemes de preguntes i respostes, escriptura assistida, traducció automàtica, generació d'imatges i vídeos. Si bé els models llançats i compartits per les empreses tecnològiques se centren principalment en l'anglès i altres idiomes majoritaris, el corpus que impulsem permetrà entrenar o afinar aquests models per fer-los servir amb una llengua minoritzada com l’aranès.
 
 El corpus de text ja és accessible a [la pàgina huggingface de Col·lectivaT](https://huggingface.co/datasets/collectivat/araina-text-corpus).
 
