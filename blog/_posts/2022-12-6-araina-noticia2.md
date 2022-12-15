@@ -25,7 +25,7 @@ Ara com ara no és possible que les màquines parlin o entenguin aranès. Perqu�
 
 # Marató de veus a Vielha: cap a un corpus de parla en aranès impulsat per la comunitat
 
-Per començar a recollir hores de veu en aranès, hem organitzat una marató de veus on s’enregistrarà la veu de persones de parla en aranès de diverses edats, registres i parlars. L'esdeveniment se celebrarà el **dissabte 17 de desembre de 10 a 14h a Seu de Conselh Generau d’Aran (Passeg dera Libertat, 16) en Vielha** i reunirà les primeres persones voluntàries que estiguin disposades a donar la seva veu. **També hi haurà l’opció de participar-hi de forma virtual durant tot el cap de setmana.**
+Per començar a recollir hores de veu en aranès, hem organitzat una marató de veus on s’enregistrarà la veu de persones de parla en aranès de diverses edats, registres i parlars. L'esdeveniment se celebrarà el **dissabte 17 de desembre de 10 a 14h a Seu de Conselh Generau d’Aran (Passeg dera Libertat, 16) a Vielha** i reunirà les primeres persones voluntàries que estiguin disposades a donar la seva veu. **També hi haurà l’opció de participar-hi de forma virtual durant tot el cap de setmana.**
 
 <p style="text-align: center;">
 <span style="font-weight:700;font-size:25px">
