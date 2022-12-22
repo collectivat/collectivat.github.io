@@ -9,7 +9,7 @@ summary: "Yousra Bargach explica la seva feina durant les seves practiques a Col
 
 <!-- <iframe width="100%" height="265" src="https://clyp.it/wdwlnr22/widget" frameborder="0"></iframe> -->
 
-<iframe src="/player/player.html?file=/blog_audio/2022-09-29-practica-amazig-ca.mp3&title=Escolta aquest article amb Catotron" type="text/html" width="100%" allowfullscreen></iframe>
+<!-- <iframe src="/player/player.html?file=/blog_audio/2022-09-29-practica-amazig-ca.mp3&title=Escolta aquest article amb Catotron" type="text/html" width="100%" allowfullscreen></iframe> -->
 
 _En aquesta publicació de bloc, **Yousra Bargach**, estudiant de màster d'Universitat Oberta de Catalunya, descriu el seu treball i els seus aprenentatges al voltant de la recopilació de dades lingüístiques per a l'idioma amazic durant les seves pràctiques a Col·lectivaT a la primavera del 2022. La publiquem en el seu idioma original._
 
