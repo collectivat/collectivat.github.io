@@ -8,7 +8,9 @@ summary: "Des de Col·lectivaT ens posicionem en contra la gestió estatal i gov
 
 <br>
 
-<p align="center"><img src="/img/blog/2023/6773875118_137b1bdf15_b.jpg" alt="Un edifici destruït pel terratrèmol amb cossos de salvament i seguretat" width="80%"  style="margin:10px" ></p>
+<p align="center"><img src="/img/blog/2023/6773875118_137b1bdf15_b.jpg" alt="Un edifici destruït pel terratrèmol amb cossos de salvament i seguretat" width="65%"  style="margin:10px" ><br>
+Crèdit de foto: EU Civil Protection and Humanitarian Aid (CC BY-SA 2.0) 
+</p>
 
 <!-- <iframe src="/player/player.html?file=/blog/audio/2022-12-21-araina-noticia3-enVeu.mp3&title=Escolta aquest article amb Catotron" type="text/html" width="100%" allowfullscreen></iframe> -->
 
