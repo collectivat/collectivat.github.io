@@ -377,6 +377,14 @@ about:
             es: Nos dedicamos a crear y mantener recursos que son comunes de una comunidad de profesionales del ámbito del conocimiento. Participamos en proyectos dirigidos por la comunidad, sea para informar al público mediante la creación de repositorios de datos abiertos o el desarrollo de herramientas de código abierto y libre.
           fa_icon: fa-globe
 
+#Contact us
+contact:
+  contactus:
+    en: "Contact Us"
+    ca: "Contacta'ns"
+    es: "Contáctanos"
+
+
 # Team names, titles and social links
 people:
   intro:
