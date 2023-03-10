@@ -71,9 +71,9 @@ header:
     ca: Equip
     es: Equipo
   clients:
-    en: In collaboration with
-    ca: En col·laboració amb
-    es: En colaboración con
+    en: We collaborate with
+    ca: Col·laborem amb
+    es: Colaboramos con
   contact:
     en: Contact
     ca: Contacte
@@ -387,6 +387,7 @@ contact:
     en: "Contact Us"
     ca: "Contacta'ns"
     es: "Contáctanos"
+  tel: 685 703 130
 
 
 # Team names, titles and social links
@@ -460,6 +461,16 @@ clients:
     - name: Enginyeria Sense Fronteres
       pic: esf-logo.svg
       url: https://esf-cat.org/
+    - name: Coopdevs
+      pic: coopdevs_logo_without_slogan.webp
+      url: https://coopdevs.org/
+    - name: Ardit
+      pic: ardit.png
+      url: https://ardit.cat/
+    - name: Almena Cooperativa Feminista
+      pic: almena-logo-retina.png
+      url: https://almenafeminista.org/
+    
 
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)

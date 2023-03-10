@@ -965,6 +965,7 @@ body {
   display: flex;
   align-items: center;
   flex-flow: row wrap;
+  justify-content: center;
 }
 
 .clientbox{
@@ -976,4 +977,5 @@ body {
 
   max-width: 100%;
   object-fit: contain;
+
 }
