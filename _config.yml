@@ -387,7 +387,7 @@ contact:
     en: "Contact Us"
     ca: "Contacta'ns"
     es: "Contáctanos"
-  tel: 685 703 130
+  tel: #685 703 130
 
 
 # Team names, titles and social links
@@ -420,7 +420,7 @@ people:
           url: https://github.com/alpoktem
         - title: linkedin
           url: https://www.linkedin.com/in/alp-oktem
-    - name: Pelin Doğan
+    - name: Pelin Doğan Özmen
       pic: 3
       position:
         en: Translator, teacher of Turkish
@@ -455,12 +455,18 @@ clients:
     - name: Coordinadora d'ONGD i aMS de Lleida
       pic: Logo-Coordi-Color-H.jpg
       url: https://www.coordinadora-ongd-lleida.cat/
-    - name: Descontrol
-      pic: Editorial_Descontrol.jpg
-      url: https://descontrol.cat/
-    - name: Enginyeria Sense Fronteres
-      pic: esf-logo.svg
-      url: https://esf-cat.org/
+    - name: femProcomuns
+      pic: femprocomuns.png
+      url: https://femprocomuns.coop
+    - name: Aula d'Idiomes
+      pic: Logo_Aula-01.png
+      url: https://auladidiomes.cat/
+    # - name: Descontrol
+    #   pic: Editorial_Descontrol.jpg
+    #   url: https://descontrol.cat/
+    # - name: Enginyeria Sense Fronteres
+    #   pic: esf-logo.svg
+    #   url: https://esf-cat.org/
     - name: Coopdevs
       pic: coopdevs_logo_without_slogan.webp
       url: https://coopdevs.org/
