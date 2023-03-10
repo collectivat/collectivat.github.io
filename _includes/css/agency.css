@@ -700,7 +700,7 @@ section h3.section-subheading {
 }
 
 .team-member {
-    margin-bottom: 50px;
+/*    margin-bottom: 50px;*/
     text-align: center;
 }
 
@@ -725,7 +725,7 @@ aside.clients img {
 
 section#contact {
     background-color: #222;
-    background-image: url('{{ site.baseurl }}/img/map-image.png');
+    background-image: url('{{ site.baseurl }}/img/header-bg.jpg');
     background-position: center;
     background-repeat: no-repeat;
 }
@@ -955,3 +955,25 @@ body {
     box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 1);
 }
 
+.clients-row{
+  position: relative;
+  margin: 5px 0px;
+  width:100%;
+  font-size:0; /* add */
+
+  flex-direction:row;
+  display: flex;
+  align-items: center;
+  flex-flow: row wrap;
+}
+
+.clientbox{
+  font-size:20px; /* or whatever you want */
+  width: 18%;
+  min-height:18px;
+  display: inline-block;
+  margin: 0px 10px;
+
+  max-width: 100%;
+  object-fit: contain;
+}

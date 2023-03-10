@@ -70,6 +70,10 @@ header:
     en: Team
     ca: Equip
     es: Equipo
+  clients:
+    en: In collaboration with
+    ca: En col·laboració amb
+    es: En colaboración con
   contact:
     en: Contact
     ca: Contacte
@@ -438,6 +442,25 @@ people:
     en: We also collaborate with many other professionals, not only in Catalunya but also in Turkey.
     ca: També col·laborem amb molts altres professionals, no només a Catalunya, sinó també a Turquia.
     es: También colaboramos con muchos otros profesionales, no solo en Cataluña, sino también en Turquía.
+
+clients:
+  list:
+    - name: CIEMEN
+      pic: logo_ciemen_web-1.png
+      url: https://www.ciemen.cat/
+    - name: Mozilla
+      pic: mozilla-cv.png
+      url: https://commonvoice.mozilla.org
+    - name: Coordinadora d'ONGD i aMS de Lleida
+      pic: Logo-Coordi-Color-H.jpg
+      url: https://www.coordinadora-ongd-lleida.cat/
+    - name: Descontrol
+      pic: Editorial_Descontrol.jpg
+      url: https://descontrol.cat/
+    - name: Enginyeria Sense Fronteres
+      pic: esf-logo.svg
+      url: https://esf-cat.org/
+
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:

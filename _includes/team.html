@@ -9,7 +9,7 @@
             </div>
             <div class="row">
                 {% for member in site.people['list'] %}
-                <div class="col-sm-4">
+                <div class="col-sm-3">
                     <div class="team-member">
                         <img src="img/team/{{ member.pic }}.jpg" class="img-responsive img-circle" alt="">
                         <h4>{{ member.name }}</h4>
@@ -28,10 +28,10 @@
                 </div>
                 {% endfor %}
             </div>
-            <div class="row">
+<!--             <div class="row">
                 <div class="col-lg-8 col-lg-offset-2 text-center">
                     <p class="large text-muted">{{ team.footer[page.lang] }}</p>
                 </div>
-            </div>
+            </div> -->
         </div>
     </section>

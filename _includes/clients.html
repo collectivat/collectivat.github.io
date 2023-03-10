@@ -2,12 +2,19 @@
     <aside class="clients">
         <div class="container">
             <div class="row">
-                <div class="col-md-3 col-sm-6">
-                    <a href="#">
-                        <img src="img/logos/envato.jpg" class="img-responsive img-centered" alt="">
+                <div class="col-lg-12 text-center">
+                    <h1 class="section-heading">{{ site.header['clients'][page.lang] }}</h2>
+                </div>
+            </div>
+            <div class="clients-row">
+                {% for client in site.clients['list'] %}
+                <div class="clientbox">
+                    <a href="{{ client.url }}" target="_blank">
+                        <img src="img/logos/{{ client.pic }}" class="img-responsive img-centered" alt="{{ client.name }}">
                     </a>
                 </div>
-                <div class="col-md-3 col-sm-6">
+                {% endfor %}
+<!--                 <div class="col-md-3 col-sm-6">
                     <a href="#">
                         <img src="img/logos/designmodo.jpg" class="img-responsive img-centered" alt="">
                     </a>
@@ -21,7 +28,7 @@
                     <a href="#">
                         <img src="img/logos/creative-market.jpg" class="img-responsive img-centered" alt="">
                     </a>
-                </div>
+                </div> -->
             </div>
         </div>
     </aside>
