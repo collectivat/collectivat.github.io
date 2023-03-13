@@ -406,7 +406,7 @@ people:
       social:
         - title: twitter
           url: https://twitter.com/okumus_gunes
-
+      email: ozgurgunes@collectivat.cat
     - name: Alp Öktem
       pic: 2
       position:
@@ -420,15 +420,14 @@ people:
           url: https://github.com/alpoktem
         - title: linkedin
           url: https://www.linkedin.com/in/alp-oktem
+      email: alp@collectivat.cat
     - name: Pelin Doğan Özmen
       pic: 3
       position:
         en: Translator, teacher of Turkish
         ca: Traductora, professora de turc
         es: Traductora, professora de turco
-      social:
-        - title: twitter
-          url: https://twitter.com/collectivat
+      email: pdogan@collectivat.cat
     - name: Clara Basiana
       pic: 4
       position:
@@ -438,6 +437,7 @@ people:
       social:
         - title: twitter
           url: https://twitter.com/clarabasiana
+      email: comunicacio@collectivat.cat
 
   footer:
     en: We also collaborate with many other professionals, not only in Catalunya but also in Turkey.
