@@ -11,7 +11,7 @@ summary: "L’activitat, celebrada en format presencial i virtual, va comptat am
 
 <p align="center"><img src="/img/blog/2022/Marato-veus-vielha.png" alt="La Marató de veus de Projecte Araina recull 8 hores de gravacions d’un centenar de participants" width="100%"  style="margin:10px" ></p>
 
-<iframe src="/player/player.html?file=/blog/audio/2022-12-21-araina-noticia3-enVeu.mp3&title=Escolta aquest article amb Catotron" type="text/html" width="100%" allowfullscreen></iframe>
+<iframe src="/player/player.html?file=/blog/audio/2022-12-21-araina-noticia3-enVeu.mp3&title=Escolta aquest article amb Catotron" type="text/html" width="100%" height="80px" frameborder="0" allowfullscreen></iframe>
 
 El cap de setmana passat, la Marató de veus del [Projecte Araina, votzes en aranés](https://www.projecte-araina.org/) va recollir més de 8 hores de veu enregistrades en aranès d’un centenar de participants. L’activitat, celebrada en format presencial i virtual, va comptat amb **persones de parla aranesa de diverses edats, registres i parlars** que es van gravar llegint fins a 4.000 frases en aquesta varietat de la llengua occitana. 
 
