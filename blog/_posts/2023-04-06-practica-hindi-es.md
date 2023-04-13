@@ -1,15 +1,15 @@
 ---
 layout: post
-title: "Apreciar la meva llengua materna i amplificar la veu dels comuns: les meves pràctiques a Col·lectivaT"
+title: "Apreciar mi lengua materna y amplificar la voz de los comunes: mis prácticas en Col·lectivaT"
 ref: practicashindi
 thumbnail: /img/blog/2023/hindi.png
-lang: ca
-summary: "Rahul Rahul explica la seva feina durant les seves practiques a Col·lectivaT"
+lang: es
+summary: "Rahul Rahul explica su trabajo durante sus prácticas en Col·lectivaT"
 ---
 
-_En aquesta publicació de bloc, **Rahul Rahul**, estudiant de Màster Universitari en Traducció i Tecnologies de la Universitat Oberta de Catalunya, descriu les seves tasques i aprenentatges durant les pràctiques a Col·lectivaT la tardor de 2022. D’una banda, parla sobre el procés d’entrenament d’un bot conversacional (un programa que simula una conversa amb una interlocutora) en la llengua hindi i, de l’altra, explica com ha treballat per traduir articles sobre béns comuns. Publiquem el text en el seu idioma original._
+_En esta publicación, **Rahul Rahul**, estudiante de Máster Universitario en Traducción y Tecnologías de la Universitat Oberta de Catalunya, describe sus tareas y aprendizajes durante las prácticas en Col·lectivaT en otoño de 2022. Por un lado, habla sobre el proceso de entrenamiento de un bote conversacional (un programa que simula una conversación con una interlocutora) en la lengua hindi y, por otra, explica cómo ha trabajado en traducción de artículos sobre bienes comunes. Publicamos el texto en su idioma original._
 
-<p align="center"><img src="/img/blog/2023/hindi.png" alt="Una ilustracion de letras de hindi" width="80%"></p>
+<p align="center"><img src="/img/blog/2023/hindi.png" alt="Un libro escrito en Amazig" width="80%"></p>
 
 During my internship, I had the opportunity to work on two exciting projects that allowed me to hone my skills and gain valuable experience. The first project focused on improving the input data for a voice activated chatbot. I was responsible for conducting research, analysing data and making recommendations to improve the accuracy and effectiveness of the chatbot's responses. The second project was a linguistic task where I was tasked with translating articles about commons from Catalan to English using a CAT tool new to me. This internship was a great opportunity for me to not only improve my language skills, but also to make a positive impact on the world by helping the organisation spread their message to a wider audience. Overall, these two projects gave me a well-rounded experience in both technical and language-related tasks, and I am grateful for the opportunity to have worked on them.
 
