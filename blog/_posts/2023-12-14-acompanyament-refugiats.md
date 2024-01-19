@@ -22,6 +22,6 @@ Una vegada més, en aquest projecte hem comptat amb la nostra principal col·lab
 
 Estem molt satisfetes del camí recorregut amb dues entitats **referents en la lluita antirracista i anticolonial**, que desenvolupen la seva activitat entre Catalunya i el territori ocupat del Sàhara Occidental. Des de Col·lectivaT considerem que és imprescindible **compartir valors i principis** amb les organitzacions amb qui treballem. Partir d’unes bases comunes per enfortir-nos, aprendre mútuament i poder continuar lluitant plegades per un món més just.
 
-### Sobre la nostra col·laboradora
+#### Sobre la nostra col·laboradora
 
 [Montse López Amat](https://www.instagram.com/monlopezamat/) és llicenciada en Dret a la Universitat de Barcelona i Màster en Desenvolupament Internacional a la Universitat Politècnica de Catalunya. És consultora i coordinadora de projectes socioeducatius, formadora i dissenyadora de materials pedagògics i facilitadora de processos de planificació estratègica organitzacional. Entre altres, ha col·laborat amb la Coordinadora d’ONGDs de Lleida i altres moviments solidaris, l’Ajuntament de Barcelona, l’Ajuntament de Rubí, l’Ajuntament de L’Hospitalet de Llobregat, l’Ajuntament de Tarragona i [LaFede.cat](https://lafede.cat/). Va ser cooperant internacional en una organització a Chiapas (Mèxic) primer com a formadora a grups de dones i joves i coordinadora, iniciant la ruta de planificació estratègica, i després com avaluadora. Es va iniciar en aquest sector com a part de l’equip de Formació de [SETEM-Catalunya](https://www.setem.org/catalunya/).
