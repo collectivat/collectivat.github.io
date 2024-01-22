@@ -28,10 +28,10 @@ Com a part de la nostra missió, proporcionem dades obertes i recursos sobre tec
 | [UPC FestCat Ona - optimitzat][5]       | català  | corpus d'àudio |  CC BY-SA 3.0 ES   | [enllaç][TTSOna]|
 | [UPC FestCat Pau - optimitzat][5]       | català  | corpus d'àudio |  CC BY-SA 3.0 ES   | [enllaç][TTSPau]|
 | OpenSubtitles LM                   v1.0 | català  | model d'idioma |  CC-BY 4.0    | [enllaç][LMos] |
-| Textos monolingües i paral·lels en amazic | amazic  | dades de text |  CC-BY 2.0    | [enllaç][amazic] |
-| Corpus de textos Araina | Occità Aranès  | corpus de text |  CC-0 1.0    | [enllaç][araina] |
-| Articles de Şalom | Judeocastellà  | corpus de text |  CC-BY 4.0    | [enllaç][salom] |
-| Una Fraza al diya | Judeocastellà  | corpus de text paral·lel |  CC-BY 4.0    | [enllaç][fraza] |
+| Textos monolingües i paral·lels en amazic | amazic  | dades de text |  CC-BY 2.0    | [enllaç](amazic) |
+| Corpus de textos Araina | occità aranès  | corpus de text |  CC-0 1.0    | [enllaç](araina) |
+| Articles de Şalom | judeocastellà  | corpus de text |  CC-BY 4.0    | [enllaç](salom) |
+| Una Fraza al diya | judeocastellà  | corpus de text paral·lel |  CC-BY 4.0    | [enllaç](fraza) |
 
 
 <br/>
