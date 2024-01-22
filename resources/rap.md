@@ -12,7 +12,7 @@ table {
 
 # Recursos per les tecnologies linguistics
 
-Com a part de la nostra missió, proporcionem dades obertes i recursos sobre tecnologies del discurs, específicament el reconeixement automàtic del discurs (ASR), la síntesi de text a parla (TTS) i la traducció automàtica (MT) en les llengües amb les quals treballem. Podeu trobar una llista detallada aquí amb explicacions breus i altres referències per obtenir més informació. 
+Com a part de la nostra missió, proporcionem dades obertes i recursos sobre tecnologies del discurs, específicament el reconeixement automàtic del discurs (ASR), la síntesi de text a parla (TTS) i la traducció automàtica (MT) en les llengües amb les quals treballem. Podeu trobar una llista detallada aquí amb explicacions breus i altres referències per obtenir més informació. També pots trobar alguns d'aquests recursos a la pàgina de Col·lectivaT a [Hugging Face](HF).
 
 | Nom                                     | Llengua | Tipus          | Llicència     | Descarregar    |
 |---------------------------------------- | ------- | -----------    | --------      | -----------    |
@@ -33,9 +33,7 @@ Com a part de la nostra missió, proporcionem dades obertes i recursos sobre tec
 | Articles de Şalom | Jueu-espanyol  | corpus de text |  CC-BY 4.0    | [enllaç][salom] |
 | Una Fraza al diya | Jueu-espanyol  | corpus de text paral·lel |  CC-BY 4.0    | [enllaç][fraza] |
 
-També pots trobar alguns d'aquests recursos a la pàgina de Col·lectivaT a [Hugging Face](HF).
 
- 
 <br/>
 
 ## Corpora acústics

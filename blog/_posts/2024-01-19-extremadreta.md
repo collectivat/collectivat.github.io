@@ -2,7 +2,7 @@
 layout: post
 title: "Contra l’extrema dreta i l’agenda antifeminista i antigènere"
 ref: acompanyament1
-thumbnail: 
+thumbnail: /img/blog/2024/formacio-upf.jpg
 lang: ca
 summary: "El passat 17 de gener vam impartir la formació Extrema dreta i construcció del gènere al curs L’Extrema Dreta en les Democràcies Contemporànies organtizat per l'Escola de Formació Guillem Agulló, un espai de formació teòrica i pràctica d’Òmnium Cultural que treballa per promoure l’enfortiment democràtic al nostre territori."
 ---

@@ -12,7 +12,7 @@ table {
 
 # Resources for Language Technologies
 
-As a part of our mission, we provide open data and resources on speech technologies, specifically automatic speech recognition (ASR), text-to-speech synthesis (TTS) and machine translation (MT) in the languages we work with. You can find a detailed list here with short explanations and further references to get more information. 
+As a part of our mission, we provide open data and resources on speech technologies, specifically automatic speech recognition (ASR), text-to-speech synthesis (TTS) and machine translation (MT) in the languages we work with. You can find a detailed list here with short explanations and further references to get more information. You can also find some of these resources in Col·lectivaT's page in [Hugging Face](HF). 
   
 | Name                                    | Language | Type           | License       | Download     |
 |---------------------------------------  | -------- | -----------    | --------      | ------------ |
@@ -33,7 +33,7 @@ As a part of our mission, we provide open data and resources on speech technolog
 | Şalom articles | Judeospanish  | text data |  CC-BY 4.0    | [link][salom] |
 | Una Fraza al diya | Judeospanish  | text data |  CC-BY 4.0    | [link][fraza] |
 
-You can also find some of these resources in Col·lectivaT's page in [Hugging Face](HF).  
+ 
  
 <br/>
 
