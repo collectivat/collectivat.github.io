@@ -10,10 +10,9 @@ table {
 }
 </style>
 
-# Recursos per les tecnologies de la parla
+# Recursos per les tecnologies linguistics
 
-Com a part de la nostra missió, proporcionem dades i recursos oberts al públic sobre tecnologies de parla, sobre tot reconixement automàtic de parla (RAP) i síntesi de text a veu (SDV) en català. Podeu trobar una llista detallada aquí amb explicacions breus i altres referències per obtenir més informació. 
-  
+Com a part de la nostra missió, proporcionem dades obertes i recursos sobre tecnologies del discurs, específicament el reconeixement automàtic del discurs (ASR), la síntesi de text a parla (TTS) i la traducció automàtica (MT) en les llengües amb les quals treballem. Podeu trobar una llista detallada aquí amb explicacions breus i altres referències per obtenir més informació. 
 
 | Nom                                     | Llengua | Tipus          | Llicència     | Descarregar    |
 |---------------------------------------- | ------- | -----------    | --------      | -----------    |
@@ -29,6 +28,13 @@ Com a part de la nostra missió, proporcionem dades i recursos oberts al públic
 | [UPC FestCat Ona - optimitzat][5]       | català  | corpus d'àudio |  CC BY-SA 3.0 ES   | [enllaç][TTSOna]|
 | [UPC FestCat Pau - optimitzat][5]       | català  | corpus d'àudio |  CC BY-SA 3.0 ES   | [enllaç][TTSPau]|
 | OpenSubtitles LM                   v1.0 | català  | model d'idioma |  CC-BY 4.0    | [enllaç][LMos] |
+| Textos monolingües i paral·lels en amazic | amazic  | dades de text |  CC-BY 2.0    | [enllaç][amazic] |
+| Corpus de textos en Aranès d'Araïna | Occità Aranès  | corpus de text |  CC-0 1.0    | [enllaç][araina] |
+| Articles de Şalom | Jueu-espanyol  | corpus de text |  CC-BY 4.0    | [enllaç][salom] |
+| Una Fraza al diya | Jueu-espanyol  | corpus de text paral·lel |  CC-BY 4.0    | [enllaç][fraza] |
+
+També pots trobar alguns d'aquests recursos a la pàgina de Col·lectivaT a [Hugging Face](HF).
+
  
 <br/>
 

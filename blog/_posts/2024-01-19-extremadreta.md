@@ -9,6 +9,8 @@ summary: "El passat 17 de gener vam impartir la formació Extrema dreta i constr
 
 <br>
 
+<p align="center"><img src="/img/blog/2024/formacio-upf.jpg" alt="Un escenari de la Universitat Pompeu Fabra." width="100%" style="margin:10px" >
+</p>
 
 <iframe src="/player/player.html?file=https://storage.googleapis.com/ttsreader/nou.collectivat.cat-2024-01-19-contra-lextrema-dreta-i-lagenda-antifeminista-i-antigenere-.mp3&title=Escolta aquest article amb enVeu" type="text/html" width="100%" height="80px" frameborder="0" allowfullscreen></iframe>
 

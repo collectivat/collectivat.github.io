@@ -10,9 +10,9 @@ table {
 }
 </style>
 
-# Resources for Speech Technologies
+# Resources for Language Technologies
 
-As a part of our mission, we provide open data and resources on speech technologies, specifically automatic speech recognition (ASR) and text-to-speech synthesis (TTS) in Catalan. You can find a detailed list here with short explanations and further references to get more information. 
+As a part of our mission, we provide open data and resources on speech technologies, specifically automatic speech recognition (ASR), text-to-speech synthesis (TTS) and machine translation (MT) in the languages we work with. You can find a detailed list here with short explanations and further references to get more information. 
   
 | Name                                    | Language | Type           | License       | Download     |
 |---------------------------------------  | -------- | -----------    | --------      | ------------ |
@@ -28,6 +28,12 @@ As a part of our mission, we provide open data and resources on speech technolog
 | [UPC FestCat Ona - optimized][5]        | Catalan  | TTS audio corpus |  CC BY-SA 3.0 ES   | [link][TTSOna]|
 | [UPC FestCat Pau - optimized][5]        | Catalan  | TTS audio corpus |  CC BY-SA 3.0 ES   | [link][TTSPau]|
 | OpenSubtitles LM                   v1.0 | Catalan  | language model |  CC-BY 4.0    | [link][LMos] |
+| Tamazight monolingual and parallel texts | Tamazight  | text data |  CC-BY 2.0    | [link][amazic] |
+| Araina text corpus | Occitan Aranese  | text data |  CC-0 1.0    | [link][araina] |
+| Şalom articles | Judeospanish  | text data |  CC-BY 4.0    | [link][salom] |
+| Una Fraza al diya | Judeospanish  | text data |  CC-BY 4.0    | [link][fraza] |
+
+You can also find some of these resources in Col·lectivaT's page in [Hugging Face](HF).  
  
 <br/>
 
@@ -86,6 +92,11 @@ For more information, you can refer to [our paper published in Interspeech 2020]
 
 <img src="/img/logo_generalitat.png" width="400"/>
 
+[HF]: https://huggingface.co/collectivat
+[amazic]: https://huggingface.co/datasets/collectivat/amazic
+[araina]: https://huggingface.co/datasets/collectivat/araina-text-corpus
+[salom]: https://huggingface.co/datasets/collectivat/salom-ladino-articles
+[fraza]: https://huggingface.co/datasets/collectivat/una-fraza-al-diya
 [wiki]: https://github.com/collectivat/cmusphinx-models/wiki
 [catotron]: http://catotron.cat/
 [interspeech2020]: https://www.isca-speech.org/archive/interspeech_2020/kulebi20_interspeech.html
