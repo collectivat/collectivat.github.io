@@ -11,7 +11,7 @@ summary: "El 17 de desembre tindrà lloc a Vielha la primera marató de veus per
 
 <p align="center"><img src="/img/blog/2022/Marato-veus-araina.png" alt="Vine a la Marató de veus a Vielha" width="80%"></p>
 
-<iframe src="/player/player.html?file=/blog/audio/2022-12-6-araina-noticia2.mp3&title=Escolta aquest article amb Catotron" type="text/html" width="100%" height="80px" frameborder="0" allowfullscreen></iframe>
+<iframe src="/player/localplayer.html?file=/blog/audio/2022-12-6-araina-noticia2.mp3&title=Escolta aquest article amb Catotron" type="text/html" width="100%" height="80px" frameborder="0" allowfullscreen></iframe>
 
 ## El 17 de desembre tindrà lloc a Vielha la primera marató de veus per enregistrar veus de parlants de l’aranès
 

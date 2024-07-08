@@ -11,7 +11,7 @@ summary: "Arrenca el projecte Araina que impulsarà tecnologies de la parla en a
 
 <p align="center"><img src="/img/blog/2022/arainainici.png" alt="Imatge projecte araina" width="80%"></p>
 
-<iframe src="/player/player.html?file=/blog/audio/2022-11-21-inici-projecte-araina.mp3&title=Escolta aquest article amb Catotron" type="text/html" width="100%" height="80px" frameborder="0" allowfullscreen></iframe>
+<iframe src="/player/localplayer.html?file=/blog/audio/2022-11-21-inici-projecte-araina.mp3&title=Escolta aquest article amb Catotron" type="text/html" width="100%" height="80px" frameborder="0" allowfullscreen></iframe>
 
 Arrenca el projecte __Araina: votzes en aranés__, que crearà un corpus de veu en aranès per tal d’impulsar tecnologies de la parla en aquesta varietat. Iniciatives com aquesta són necessàries perquè l’aranès guanyi terreny a l’espai digital i sigui útil en diversos entorns tecnològics. El projecte ha estat impulsat per Col·lectivaT, que compta amb la col·laboració de l’investigador de la Universitat de Lleida Jordi Suïls Subirà i de la investigadora Helena Torres Purroy, membres del Conselh Consultatiu der Aranés.
 

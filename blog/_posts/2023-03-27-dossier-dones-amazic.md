@@ -12,7 +12,7 @@ summary: "Özgür Güneş participa en el primer estudi sobre dones d’origen a
 <p align="center"><img src="/img/blog/2023/dones_origen_amazic_catalunya_amaziguitat.png" alt="Portada de dossier Sempre he sentit forces que em diuen com he de ser. Les dones d’origen amazic a Catalunya narren la seva amaziguitat" width="100%" style="margin:10px" >
 </p>
 
-<iframe src="/player/player.html?file=https://storage.googleapis.com/ttsreader/noticies.catotron.cat-2023-03-24-les-dones-dorigen-amazic-a-catalunya-narren-la-seva-amaziguitat-.mp3&title=Escolta aquest article amb Catotron" type="text/html" width="100%" height="80px" frameborder="0" allowfullscreen></iframe>
+<iframe src="/player/localplayer.html?file=https://storage.googleapis.com/ttsreader/noticies.catotron.cat-2023-03-24-les-dones-dorigen-amazic-a-catalunya-narren-la-seva-amaziguitat-.mp3&title=Escolta aquest article amb Catotron" type="text/html" width="100%" height="80px" frameborder="0" allowfullscreen></iframe>
 
 ## Özgür Güneş participa en el primer estudi sobre dones d’origen amazic a Catalunya
 

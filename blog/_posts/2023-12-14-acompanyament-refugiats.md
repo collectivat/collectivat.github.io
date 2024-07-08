@@ -12,7 +12,7 @@ summary: "Acabem l’any tancant un procés d’acompanyament a Lleida pels Refu
 <p align="center"><img src="/img/blog/2023/acompanyament.png" alt="Moments de acompanyament" width="100%" style="margin:10px" >
 </p>
 
-<!-- <iframe src="/player/player.html?file=https://storage.googleapis.com/ttsreader/noticies.catotron.cat-2023-08-22-fruita-amb-.mp3&title=Escolta aquest article amb Catotron" type="text/html" width="100%" height="80px" frameborder="0" allowfullscreen></iframe> -->
+<!-- <iframe src="/player/localplayer.html?file=https://storage.googleapis.com/ttsreader/noticies.catotron.cat-2023-08-22-fruita-amb-.mp3&title=Escolta aquest article amb Catotron" type="text/html" width="100%" height="80px" frameborder="0" allowfullscreen></iframe> -->
 
 Des de Col·lectivaT, acabem l’any tancant un **procés d’acompanyament** a [Lleida pels Refugiats](https://lleidapelsrefugiats.com/) i [Sàhara Ponent](https://www.instagram.com/saharaponent/?hl=es), dues associacions agrupades sota la [Coordinadora de Lleida](https://www.coordinadora-ongd-lleida.cat/) compromeses amb el territori i la defensa dels drets humans, especialment de les persones refugiades i d'origen migrant. El procés, que vam començar el curs passat, ha consistit en dissenyar una **Planificació Estratègica Organitzacional** per a cadascuna de les associacions lleidetanes amb l‘objectiu de **consolidar la seva estructura i funcionament intern.** 
 

@@ -12,7 +12,7 @@ summary: "Aquest agost s'han vist els primers resultats de la col·laboració en
 <p align="center"><img src="/img/blog/2023/Justicia-social-01-Llibert-Rexach.jpeg" alt="Manifestants amb un cartell de Fruita amb Justícia Social" width="100%" style="margin:10px" >
 </p>
 
-<iframe src="/player/player.html?file=https://storage.googleapis.com/ttsreader/noticies.catotron.cat-2023-08-22-fruita-amb-.mp3&title=Escolta aquest article amb Catotron" type="text/html" width="100%" height="80px" frameborder="0" allowfullscreen></iframe>
+<iframe src="/player/localplayer.html?file=https://storage.googleapis.com/ttsreader/noticies.catotron.cat-2023-08-22-fruita-amb-.mp3&title=Escolta aquest article amb Catotron" type="text/html" width="100%" height="80px" frameborder="0" allowfullscreen></iframe>
 
 Aquest mes d'agost ha sortit a la llum els primers resultats de la col·laboració entre l'entitat lleidatana, l'[Associació Fruita amb Justícia Social](https://fruitaambjusticia.wordpress.com/) i Col·lectivaT. La iniciativa promoguda per Fruita amb Justícia Social té la finalitat de contribuir a la superació de les barreres lingüístiques que afronten treballadores temporeres, que venen cada estiu a terres de Lleida per treballar a la campanya de la fruita. Aquestes treballadores, majoria migrants, pateixen, d'una banda, per la temporalitat del treball que en moltes ocasions va acompanyada amb l'incompliment dels drets laborals, i de l'altra, per barreres lingüístiques que dificulten l'accés a la informació sobre aquests drets i els mecanismes de denúncia. 
 

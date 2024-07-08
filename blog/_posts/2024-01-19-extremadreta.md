@@ -12,7 +12,7 @@ summary: "El passat 17 de gener vam impartir la formació Extrema dreta i constr
 <p align="center"><img src="/img/blog/2024/formacio-upf.jpg" alt="Un escenari de la Universitat Pompeu Fabra." width="100%" style="margin:10px" >
 </p>
 
-<iframe src="/player/player.html?file=https://storage.googleapis.com/ttsreader/nou.collectivat.cat-2024-01-19-contra-lextrema-dreta-i-lagenda-antifeminista-i-antigenere-.mp3&title=Escolta aquest article amb enVeu" type="text/html" width="100%" height="80px" frameborder="0" allowfullscreen></iframe>
+<iframe src="/player/localplayer.html?file=https://storage.googleapis.com/ttsreader/nou.collectivat.cat-2024-01-19-contra-lextrema-dreta-i-lagenda-antifeminista-i-antigenere-.mp3&title=Escolta aquest article amb enVeu" type="text/html" width="100%" height="80px" frameborder="0" allowfullscreen></iframe>
 
 El passat 17 de gener vam impartir la formació **Extrema dreta i construcció del gènere** al curs [L’Extrema Dreta en les Democràcies Contemporànies](https://escolaguillemagullo.cat/formacions/curs-upf/) organtizat per l'[Escola de Formació Guillem Agulló](https://escolaguillemagullo.cat/), un espai de formació teòrica i pràctica d’[Òmnium Cultural](https://www.omnium.cat/ca/) que treballa per promoure l’enfortiment democràtic al nostre territori.
 
