@@ -2,17 +2,25 @@
 layout: post
 title: "Obrim el Col·lectivaT Tech Lab"
 ref: techlab0
+thumbnail: /img/blog/2024/BLOC4.jpg
 lang: ca
-summary: "una finestra al nostre món d’innovació en tecnologia lingüística"
+summary: "Una finestra al nostre món d’innovació en tecnologia lingüística"
 ---
 
 <br>
+
+<p align="center"><img src="/img/blog/2024/BLOC4.jpg" width="100%" style="margin:10px" >
+</p>
+
+
+<iframe src="/player/localplayer.html?file=https://storage.googleapis.com/ttsreader/nou.collectivat.cat-2024-07-10-obrim-el-collectivat-tech-lab-.mp3&title=Escolta aquest article amb enVeu" type="text/html" width="100%" height="80px" frameborder="0" allowfullscreen></iframe>
+
 
 A Col·lectivaT, ens apassiona explorar noves idees, especialment quan es tracta de tecnologia lingüística. La intel·ligència artificial (IA) ofereix possibilitats infinites i, des dels nostres inicis, ens hem centrat en treballar perquè les noves tecnologies fomentin l’empoderament de persones marginades en lloc d’agreujar la seva situació. La nostra feina ha abastat diverses llengües, incloent el català, el tamazight, el judeocastellà, l’aranès i el gallec, i ha fet possible projectes pioners com Catotron, lectors de continguts automàtics i la difusió de missatges multilingües durant la pandèmia de la COVID-19. El viatge continua avançant, portant-nos cap a nous horitzons. Per això hem decidit obrir un espai per compartir la nostra visió, troballes i prototips de tecnologia lingüística, el **Col·lectivaT Tech Lab**.
 
 Sota aquest nom, compartirem els nostres experiments i comentaris sobre els avenços més recents en l’àmbit de la tecnologia lingüística i també farem visible la tasca que desenvolupem amb les professionals i iniciatives amb qui treballem. Col·lectivaT Tech Lab representa el nostre costat experimental i la xarxa on estem connectades més enllà de la nostra base de clientes i col·laboradores. 
 
-Aquesta connexió amb la comunitat tecnològica, juntament amb la gran influència dels avenços en IA,** ens ajuden a formular nous projectes i construir relacions fructíferes amb iniciatives, empreses, universitats i activistes lingüístiques d’arreu. Unes aliances que es basen en la visió compartida d’una **tecnologia al servei de les persones, les comunitats, les llengües i cultures, i que floreixi lliurement en un món ràpidament digitalitzat.**
+Aquesta connexió amb la comunitat tecnològica, juntament amb la gran influència dels avenços en IA, ens ajuden a formular nous projectes i construir relacions fructíferes amb iniciatives, empreses, universitats i activistes lingüístiques d’arreu. Unes aliances que es basen en la visió compartida d’una **tecnologia al servei de les persones, les comunitats, les llengües i cultures, i que floreixi lliurement en un món ràpidament digitalitzat.**
 
 ## Un recull de la tasca de l’eix de tecnologia de Col·lectivaT
 
@@ -24,7 +32,7 @@ _A Col·lectivaT, treballem amb diligència per superar aquesta bretxa promovent
 
 Des de la creació de Col·lectivaT el 2017, hem vist les promeses de la IA i hem actuat per fer la tecnologia lingüística més inclusiva i justa, començant per la nostra llengua adoptada, el català. El 2018, vam crear el primer gran conjunt de dades de parla de múltiples persones per al català i després el vam ampliar per obtenir un total de 560 hores de dades. Ha estat un privilegi veure com el català ha avançat des de llavors en la iniciativa Common Voice, iniciada per Mozilla, gràcies a l’enorme participació d’una nació que posa la seva llengua en primer lloc.
 
-Gràcies al treball acadèmic obert i al suport del Departament de Cultura de Catalunya, el 2019 vam poder crear el <a href="https://catotron.cat/" target="_blank">Catotron</a>, la primera aplicació moderna de text a veu en català, que ha precedit altres alternatives comercials i de codi obert sorgides avui en dia. Una de les últimes iniciatives de Col·lectivaT Tech Lab és enVeu, el lector automàtic de continguts web que podeu veure a la part superior d’aquesta entrada de blog.
+<img align="left" src="/img/blog/2024/catotron-logo-mobile.png" alt="Logo de Catotron, el primer sistema de síntesi de veu en català basat en xarxes neuronals." height="180" hspace="10" vspace="10"> Gràcies al treball acadèmic obert i al suport del Departament de Cultura de Catalunya, el 2019 vam poder crear el <a href="https://catotron.cat/" target="_blank">Catotron</a>, la primera aplicació moderna de text a veu en català, que ha precedit altres alternatives comercials i de codi obert sorgides avui en dia. Una de les últimes iniciatives de Col·lectivaT Tech Lab és enVeu, el lector automàtic de continguts web que podeu veure a la part superior d’aquesta entrada de blog.
 
 En el context de les llengües marginalitzades, l’acció de les iniciatives privades o de l’àmbit acadèmic és insuficient per construir una base tecnològica sòlida que permeti la seva plena incorporació al món digital. Per això, creiem que les iniciatives de codi obert i públiques són essencials per crear solucions sobiranes, com demostren projectes com <a href="https://bhashini.gov.in/" target="_blank">Bhashini</a> de l’Índia, <a href="https://proyectoilenia.es/en/" target="_blank">Ilenia</a> o <a href="https://projecteaina.cat/" target="_blank">AINA</a>. No obstant això, és crucial que aquestes iniciatives evitin monopolitzar la narrativa i, en canvi, donin suport a un ecosistema divers d’investigadores, productores tecnològiques, grups comunitaris de base i activistes lingüístiques.
 
@@ -38,11 +46,11 @@ El 2020, vam assumir la difícil tasca de <a href="https://collectivat.cat/blog/
 
 En col·laboració amb investigadores i la comunitat sefardita d’Istanbul, vam crear i publicar diversos conjunts de dades en <a href="https://data.sefarad.com.tr/" target="_blank">un portal dedicat</a>. El més emocionant és que vam desenvolupar **<a href="https://translate.sefarad.com.tr/" target="_blank">aplicació de traducció automàtica</a> que tradueix entre el judeocastellà i el castellà, turc i anglès**. En crear una aplicació de text a veu, també vam fer les traduccions audibles, permetent a les usuàries practicar la pronunciació. Seferad Translate s’ha utilitzat milers de vegades des del seu llançament, ajudant a preservar i revitalitzar aquesta llengua en perill.
 
-### Awal: fomentem l’amazic al món digital
+### Awal: fomentem l’amazic al món digital <img align="right" src="/img/blog/2024/awal-campanya.png" alt="Image of the Awal project, digitizing Tamazight" height="250" hspace="10" vspace="10">
 
-El nostre projecte més recent i actualment actiu, <a href="https://collectivat.cat/blog/2024-01-22-awal-en/" target="_blank">Awal</a>, té com a objectiu digitalitzar la llengua d'amazic, preservant-la i promovent-la en l’espai digital mitjançant el desenvolupament d’eines innovadores per facilitar-ne l’ús i la difusió. Aquest projecte implica la participació activa de la comunitat parlant de amazic tant a Catalunya com al Marroc, que contribueixen a crear una base de dades completa mitjançant traduccions i gravacions de veu. L’objectiu general és abordar la bretxa digital proporcionant suport lingüístic i tècnic, assegurant així la presència de l'amazic en el món digital. En el <a href="https://awaldigital.org/" target="_blank">portal web</a> del projecte, llançat recentment, ja hem recollit més de **5.500 frases i 2 hores de dades** de veu que alimentaran la creació d’eines de traducció automàtica i reconeixement de veu de codi obert al servei de la comunitat parlant de l'amazic.
+ El nostre projecte més recent i actualment actiu, <a href="https://collectivat.cat/blog/2024-01-22-awal-en/" target="_blank">Awal</a>, té com a objectiu digitalitzar la llengua d'amazic, preservant-la i promovent-la en l’espai digital mitjançant el desenvolupament d’eines innovadores per facilitar-ne l’ús i la difusió. Aquest projecte implica la participació activa de la comunitat parlant de amazic tant a Catalunya com al Marroc, que contribueixen a crear una base de dades completa mitjançant traduccions i gravacions de veu. L’objectiu general és abordar la bretxa digital proporcionant suport lingüístic i tècnic, assegurant així la presència de l'amazic en el món digital. En el <a href="https://awaldigital.org/" target="_blank">portal web</a> del projecte, llançat recentment, ja hem recollit més de **5.500 frases i 2 hores de dades** de veu que alimentaran la creació d’eines de traducció automàtica i reconeixement de veu de codi obert al servei de la comunitat parlant de l'amazic.
 
-### Pioneres en la recopilació de dades lingüístiques per a l’aranès: el Projecte Araina
+### <img align="left" src="/img/blog/2024/noia-araina.png" alt="Image from Araina project with a girl recording voice on her computer for Aranese" height="180" hspace="10" vspace="10"> Pioneres en la recopilació de dades lingüístiques per a l’aranès: el Projecte Araina 
 
 Estem orgulloses d’haver estat pioneres en la recopilació de dades lingüístiques per a l’aranès. El <a href="https://www.projecte-araina.org/" target="_blank">Projecte Araina</a>, llançat en col·laboració amb institucions locals, té com a objectiu preservar i revitalitzar la llengua aranesa, una varietat de l’occità parlada a la Val d’Aran a Catalunya. El projecte no només ha estat un pas important en la digitalització de la llengua, sinó que també ha augmentat la consciència a la comunitat sobre la tecnologia lingüística mitjançant la celebració d’un <a href="https://collectivat.cat/blog/2022-12-21-araina-noticia3/" target="_blank">Marató de Veu a Vielha</a>.
 
