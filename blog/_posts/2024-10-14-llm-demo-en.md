@@ -20,9 +20,9 @@ In our <a href="https://collectivat.cat/blog/2024-07-11-tech-lab-ca/" target="_b
 
 **Large Language Models (LLMs)**  is one of the **most recent and most impactful development in Artificial Intelligence (AI)**, especially within the domain of **natural language processing (NLP)**. These models are the latest evolution in language modeling, designed to capture the contextual relationship between words. This enables LLMs to generate coherent, context-sensitive responses, moving beyond mere pattern recognition to perform **complex tasks such as conversation, translation, and content creation** with remarkable fluency and adaptability.
 
-<p align="center"><img src="/img/blog/2024/pexels-googledeepmind-18069696.jpg" alt="Una ilustracion" width="70%" style="margin:10px">
+<!-- <p align="center"><img src="/img/blog/2024/pexels-googledeepmind-18069696.jpg" alt="Una ilustracion" width="70%" style="margin:10px">
 </p>
-
+ -->
 From language translation to content creation, LLMs have quickly become a **powerful tool that automates complex processes and tasks** in professional environments, **improving efficiency across various sectors such as customer service, marketing, and data analysis**. Recent advancements have pushed these capabilities even further, enabling these models to handle more nuanced and complex conversations, as well as process and generate audio, images, and video.
 
 ### Exploring use of LLMs for social transformation

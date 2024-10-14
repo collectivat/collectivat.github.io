@@ -24,9 +24,9 @@ En el nostre <a href="https://collectivat.cat/blog/2024-07-11-tech-lab-ca/" targ
 
 Abans de res, volem introduir el concepte dels LLMs, **un dels avenços més recents en intel·ligència artificial**, especialment dins l’àmbit del **processament del llenguatge natural** (NLP). Aquests models representen l’evolució en la modelització del llenguatge, dissenyats per captar les relacions contextuals entre les paraules. Això permet als LLMs generar respostes coherents i sensibles al context, anant més enllà del simple reconeixement de patrons per dur a terme **tasques complexes com la conversa, la traducció i la creació de contingut** amb una fluïdesa i adaptabilitat remarcables.
 
-<p align="center"><img src="/img/blog/2024/pexels-googledeepmind-18069696.jpg" alt="Una ilustracion" width="70%" style="margin:10px">
+<!-- <p align="center"><img src="/img/blog/2024/pexels-googledeepmind-18069696.jpg" alt="Una ilustracion" width="70%" style="margin:10px">
 </p>
-
+ -->
 Des de la traducció de llengües fins la creació de contingut, els LLMs s’han convertit ràpidament en una **eina poderosa que automatitza processos i tasques complexes** en entorns professionals, **millorant l’eficiència en diversos sectors com l’atenció al client, el màrqueting o la anàlisi de dades**. Els avenços recents han portat aquestes capacitats encara més lluny, permetent que aquests models gestionin converses més matisades i complexes, així com processar i generar àudio, imatges i vídeo.
 
 ### Explorem l’ús dels LLMs per a la transformació social
