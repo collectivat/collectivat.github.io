@@ -30,7 +30,9 @@ From language translation to content creation, LLMs have quickly become a **powe
 At **Col·lectivaT**, we are particularly interested in how language technologies can be harnessed for **social** **transformation**. For instance, can LLMs be adapted to serve **lower-resourced languages**, which often lack sufficient digital representation? Could they help **preserve marginalized languages by providing more accessible tools for learning and communication**? These are the kinds of questions that drive our most recent experimentation.
 
 <p style="float: right; margin: 10px;">
+  <a href="https://bodemo-delta.vercel.app/" target="_blank">
   <img src="/img/blog/2024/bo-screenshot.png" alt="Bo the virtual companion" height="550">
+  </a>
 </p>
 
 ### Talk with Bo: Your virtual companion passionate for open-source
@@ -69,4 +71,4 @@ As we look ahead, we’re eager to continue experimenting with the platform, tes
 
 We’d love to hear your thoughts! If you’ve interacted with Bo or have ideas for how this technology can evolve, **please reach out and share your feedback.**
 
-We’d also like to thank [**Yuxuan Peng**](https://yuxuanize.vercel.app/), a full-stack web developer from our [Awal](https://awaldigital.org/) initiative, for his invaluable volunteer contributions to this project.
+We’d also like to thank <a href="https://yuxuanize.vercel.app/" target="_blank">**Yuxuan Peng**</a>, a full-stack web developer from our <a href="https://awaldigital.org/" target="_blank">**Awal**</a> initiative, for his invaluable volunteer contributions to this project.

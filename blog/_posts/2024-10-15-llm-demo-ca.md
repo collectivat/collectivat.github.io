@@ -34,7 +34,9 @@ Des de la traducció de llengües fins la creació de contingut, els LLMs s’ha
 A **Col·lectivaT**, estem especialment interessades en com es poden **aprofitar les tecnologies del llenguatge per a la transformació social**. Amb aquesta premissa, ens preguntem si els LLMs poden adaptar-se per servir llengües amb menys recursos, que sovint manquen de representació digital suficient? Podrien ajudar a **preservar llengües minoritzades proporcionant eines d’aprenentatge i comunicació més accessibles**? Aquestes són les qüestions que impulsen els nostres darrers experiments.
 
 <p style="float: right; margin: 10px;">
+  <a href="https://bodemo-delta.vercel.app/" target="_blank">
   <img src="/img/blog/2024/bo-screenshot.png" alt="Bo the virtual companion" height="550">
+  </a>
 </p>
 
 ### Parla amb Bo: el teu company virtual apassionat pel programari de codi obert
@@ -47,7 +49,7 @@ Us convidem a explorar <a href="https://bodemo-delta.vercel.app/" target="_blank
 
 Aquesta aplicació demo està basada en el codi obert originalment desenvolupat per Google per demostrar les capacitats conversacionals dels LLMs. Hem adaptat el codi per a les nostres finalitats localitzant el personatge al **català**, donant a Bo **una història i un context que reflecteixen la nostra realitat local**. Podeu explorar la seva personalitat i història de fons al panell de configuració, accessible a través del menú superior.
 
-Hi ha diverses tecnologies treballant conjuntament per donar vida a Bo. El **Sistema de Reconeixement Automàtic de Veu (ASR)** converteix les vostres paraules de veu a text. Aquest text, juntament amb els detalls de la personalitat de Bo, es processa a través del LLM per generar una resposta significativa i sensible al context. Finalment, la tecnologia de **Text-****a-veu** **(TTS)** converteix les respostes de Bo en paraules parlades, donant-li una veu pròpia. L’animació afegeix un **toc visual que imita una conversa real**, fent que la interacció sigui més natural i atractiva, com si estiguéssiu conversant amb un company de veritat.
+Hi ha diverses tecnologies treballant conjuntament per donar vida a Bo. El **Sistema de Reconeixement Automàtic de Veu (ASR)** converteix les vostres paraules de veu a text. Aquest text, juntament amb els detalls de la personalitat de Bo, es processa a través del LLM per generar una resposta significativa i sensible al context. Finalment, la tecnologia de **Text-a-veu (TTS)** converteix les respostes de Bo en paraules parlades, donant-li una veu pròpia. L’animació afegeix un **toc visual que imita una conversa real**, fent que la interacció sigui més natural i atractiva, com si estiguéssiu conversant amb un company de veritat.
 
 És difícil no notar l’accent nordamericà de Bo. Això es deu al fet que els models de TTS d’OpenAI estan entrenats principalment en anglès. Tot i això, si li pregunteu a Bo sobre el seu propietari, descobrireu un gir intrigant en la seva història lingüística i com es va tornar tan aficionat al programari de codi obert!A diferència dels assistents virtuals tradicionals, **les respostes de Bo** no estan pre-programades ni emmagatzemades—**es generen en temps real, basades en el flux d’interaccions**. Això fa que les seves converses siguin molt més dinàmiques i fluïdes, sense els guions rígids típics de sistemes com els assistents bancaris.
 
@@ -71,4 +73,4 @@ Amb perspectiva de futur, estem entusiasmades en continuar experimentant amb la 
 
 Ens encantaria sentir la vostra opinió! Si heu interactuat amb Bo o teniu idees sobre com pot evolucionar aquesta tecnologia, no dubteu en **compartir els vostres comentaris amb nosaltres**.
 
-També ens agradaria agrair a [Yuxuan Peng](https://yuxuanize.vercel.app/), desenvolupador web de pila completa i col·laborador de la nostra iniciativa [**Awal**](https://awaldigital.org/), per les seves valuoses contribucions voluntàries a aquest projecte.
+També ens agradaria agrair a <a href="https://yuxuanize.vercel.app/" target="_blank">**Yuxuan Peng**</a>, desenvolupador web de pila completa i col·laborador de la nostra iniciativa <a href="https://awaldigital.org/" target="_blank">**Awal**</a>, per les seves valuoses contribucions voluntàries a aquest projecte.

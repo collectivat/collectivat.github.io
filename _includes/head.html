@@ -30,4 +30,24 @@
         <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
         <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
     <![endif]-->
+
+    <!-- Open Graph Meta Tags for Social Media Sharing -->
+    {% if page.thumbnail %}
+      <meta property="og:type" content="article">
+      <meta property="og:title" content="{{ page.title | escape }}">
+      <meta property="og:description" content="{{ page.summary | strip_html | escape }}">
+      <meta property="og:image" content="{{ page.thumbnail | absolute_url }}">
+      <meta property="og:url" content="{{ page.url | absolute_url }}">
+      <meta property="og:site_name" content="{{ site.title }}">
+      <meta property="og:locale" content="{{ page.lang | default: 'ca' }}">
+    {% endif %}
+
+    <!-- Twitter Card Meta Tags -->
+    {% if page.thumbnail %}
+      <meta name="twitter:card" content="summary_large_image">
+      <meta name="twitter:title" content="{{ page.title | escape }}">
+      <meta name="twitter:description" content="{{ page.summary | strip_html | escape }}">
+      <meta name="twitter:image" content="{{ page.thumbnail | absolute_url }}">
+      <meta name="twitter:url" content="{{ page.url | absolute_url }}">
+    {% endif %}
 </head>
