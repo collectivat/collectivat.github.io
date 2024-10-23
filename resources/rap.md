@@ -20,9 +20,6 @@ Com a part de la nostra missió, proporcionem dades obertes i recursos sobre tec
 | [TV3Parla+ParlamentParla][2]       v0.2 | català  | model acústic  | GNU AGPL-3.0  | [enllaç][M0.4] |
 | [TV3Parla Corpus][4]               v0.3 | català  | corpus d'àudio | CC-BY-NC 4.0  | [enllaç][Ctv3] |
 | [ParlamentParla Corpus][3]         v2.0 | català  | corpus d'àudio |  CC-BY 4.0    | [enllaç][Cp2.0]|
-| [ParlamentParla Corpus - clean][3] v1.0 | català  | corpus d'àudio |  CC-BY 4.0    | [enllaç][CpC]  |
-| [ParlamentParla Corpus - other][3] v1.0 | català  | corpus d'àudio |  CC-BY 4.0    | [enllaç][CpO]  |
-| [ParlamentParla Corpus - old][3]   v0.3 | català  | corpus d'àudio |  CC-BY 4.0    | [enllaç][Cp0.3]|
 | [Catotron - Ona][6]                     | català  | model de SDV   | CC-BY 4.0     | [enllaç][TTSOnaModel] |
 | [Catotron - Pau][6]                     | català  | model de SDV   | CC-BY 4.0     | [enllaç][TTSPauModel] |
 | [UPC FestCat Ona - optimitzat][5]       | català  | corpus d'àudio |  CC BY-SA 3.0 ES   | [enllaç][TTSOna]|
@@ -73,6 +70,9 @@ Aquí teniu els models de RAP que vam entrenar nosaltres a partir dels corpora m
 
 * [TV3Parla v0.3][M0.3]: `sphinxtrain` 5pre-alpha continuous model
 * [TV3Parla+ParlamentParla v0.2][M0.4]: `sphinxtrain` 5pre-alpha continuous model
+
+Per obtenir més informació, podeu consultar [el nostre article publicat a Iberspeech 2018][iberspeech18].
+
  
 ## Models de SDV
 
@@ -94,27 +94,33 @@ Per obtenir més informació, podeu consultar [el nostre article publicat a Inte
 
 <img src="/img/logo_generalitat.png" width="400"/>
 
+[HF]: https://huggingface.co/collectivat
+[amazic]: https://huggingface.co/datasets/collectivat/amazic
+[araina]: https://huggingface.co/datasets/collectivat/araina-text-corpus
+[salom]: https://huggingface.co/datasets/collectivat/salom-ladino-articles
+[fraza]: https://huggingface.co/datasets/collectivat/una-fraza-al-diya
 [wiki]: https://github.com/collectivat/cmusphinx-models/wiki
 [catotron]: http://catotron.cat/
 [interspeech2020]: https://www.isca-speech.org/archive/interspeech_2020/kulebi20_interspeech.html
+[iberspeech18]: https://www.isca-archive.org/iberspeech_2018/kulebi18_iberspeech.html
 [taln]: https://www.upf.edu/web/taln
 [talp]: https://www.talp.upc.edu/
 [ccby]: https://creativecommons.org/licenses/by/4.0/
 [ccbync]: https://creativecommons.org/licenses/by-nc/4.0/
 [ccsaes]: https://creativecommons.org/licenses/by-sa/3.0/
 [gapgl]: https://www.gnu.org/licenses/agpl-3.0.html
-[Ctv3]: http://collectivat.cat/share/tv3_0.3.tar.gz
-[CpC]: http://collectivat.cat/share/parlament_v1.0_clean.tar.gz
-[CpO]: http://collectivat.cat/share/parlament_v1.0_other.tar.gz
-[Cp0.3]: http://collectivat.cat/share/parlament_0.2.tar.gz
+[Ctv3]: https://huggingface.co/datasets/collectivat/tv3_parla
+[CpC]: https://g4e5.c13.e2-2.dev/dataset-share/parlament_v1.0_clean.tar.gz
+[CpO]: https://g4e5.c13.e2-2.dev/dataset-share/parlament_v1.0_other.tar.gz
+[Cp0.3]: https://g4e5.c13.e2-2.dev/dataset-share/parlament_0.2.tar.gz
 [Cp2.0]: https://zenodo.org/record/5541827
-[M0.3]: http://collectivat.cat/share/ca-es-models-v0.3.0.zip
-[M0.4]: http://collectivat.cat/share/ca-es-models-v0.4.0.zip
-[LMos]: http://collectivat.cat/share/lm_ca_collectivat.zip
-[TTSOna]: http://collectivat.cat/share/upc_ona_data.tar.gz
-[TTSPau]: http://collectivat.cat/share/upc_pau_data.tar.gz
-[TTSOnaModel]: http://collectivat.cat/share/upc_ona_tacotron2.pt
-[TTSPauModel]: http://collectivat.cat/share/upc_pau_tacotron2.pt
+[M0.3]: https://g4e5.c13.e2-2.dev/dataset-share/ca-es-models-v0.3.0.zip
+[M0.4]: https://g4e5.c13.e2-2.dev/dataset-share/ca-es-models-v0.4.0.zip
+[LMos]: https://g4e5.c13.e2-2.dev/dataset-share/lm_ca_collectivat.zip
+[TTSOna]: https://g4e5.c13.e2-2.dev/dataset-share/upc_ona_data.tar.gz
+[TTSPau]: https://g4e5.c13.e2-2.dev/dataset-share/upc_pau_data.tar.gz
+[TTSOnaModel]: https://g4e5.c13.e2-2.dev/dataset-share/upc_ona_tacotron2.pt
+[TTSPauModel]: https://g4e5.c13.e2-2.dev/dataset-share/upc_pau_tacotron2.pt
 [1]: #corpora-acústics
 [2]: #models-de-rap
 [3]: #parlamentparla

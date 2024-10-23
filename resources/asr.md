@@ -20,9 +20,6 @@ As a part of our mission, we provide open data and resources on speech technolog
 | [TV3Parla+ParlamentParla][2]       v0.2 | Catalan  | acoustic model | GNU AGPL-3.0  | [link][M0.4] |
 | [TV3Parla Corpus][4]               v0.3 | Catalan  | audio corpus   | CC-BY-NC 4.0  | [link][Ctv3] |
 | [ParlamentParla Corpus][3]         v2.0 | Catalan  | audio corpus   |  CC-BY 4.0    | [link][Cp2.0]|
-| [ParlamentParla Corpus - clean][3] v1.0 | Catalan  | audio corpus   |  CC-BY 4.0    | [link][CpC]  |
-| [ParlamentParla Corpus - other][3] v1.0 | Catalan  | audio corpus   |  CC-BY 4.0    | [link][CpO]  |
-| [ParlamentParla Corpus - old][3]   v0.3 | Catalan  | audio corpus   |  CC-BY 4.0    | [link][Cp0.3]|
 | [Catotron - Ona][6]                     | Catalan  | TTS model      | CC-BY 4.0     | [link][TTSOnaModel] |
 | [Catotron - Pau][6]                     | Catalan  | TTS model      | CC-BY 4.0     | [link][TTSPauModel] |
 | [UPC FestCat Ona - optimized][5]        | Catalan  | TTS audio corpus |  CC BY-SA 3.0 ES   | [link][TTSOna]|
@@ -33,8 +30,6 @@ As a part of our mission, we provide open data and resources on speech technolog
 | Şalom articles | Judeospanish  | text data |  CC-BY 4.0    | [link][salom] |
 | Una Fraza al diya | Judeospanish  | text data |  CC-BY 4.0    | [link][fraza] |
 
- 
- 
 <br/>
 
 ## Acoustic corpora
@@ -74,6 +69,8 @@ These are the ASR models that we trained with [CMUSphinx](https://cmusphinx.gith
 * [TV3Parla v0.3][M0.3]: `sphinxtrain` 5pre-alpha continuous model
 * [TV3Parla+ParlamentParla v0.2][M0.4]: `sphinxtrain` 5pre-alpha continuous model
 
+For more information, you can refer to [our paper published in Iberspeech 2018][iberspeech18].
+
 ## TTS models
 
 [Catotron][catotron] is the first free, open speech synthesis system based on neural networks. Col·lectivaT has lead the development with funding from [Department of Culture of the Catalan autonomous government](http://cultura.gencat.cat/) with the participation of researchers from [Natural Language Processing research group (TALN)][taln] of Pompeu Fabra University and [Language and Speech Technologies and Applications Center of Polytechnic University of Catalonia (UPC-TALP)][talp].
@@ -100,28 +97,28 @@ For more information, you can refer to [our paper published in Interspeech 2020]
 [wiki]: https://github.com/collectivat/cmusphinx-models/wiki
 [catotron]: http://catotron.cat/
 [interspeech2020]: https://www.isca-speech.org/archive/interspeech_2020/kulebi20_interspeech.html
+[iberspeech18]: https://www.isca-archive.org/iberspeech_2018/kulebi18_iberspeech.html
 [taln]: https://www.upf.edu/web/taln
 [talp]: https://www.talp.upc.edu/
 [ccby]: https://creativecommons.org/licenses/by/4.0/
 [ccbync]: https://creativecommons.org/licenses/by-nc/4.0/
 [ccsaes]: https://creativecommons.org/licenses/by-sa/3.0/
 [gapgl]: https://www.gnu.org/licenses/agpl-3.0.html
-[Ctv3]: http://collectivat.cat/share/tv3_0.3.tar.gz
-[CpC]: http://collectivat.cat/share/parlament_v1.0_clean.tar.gz
-[CpO]: http://collectivat.cat/share/parlament_v1.0_other.tar.gz
-[Cp0.3]: http://collectivat.cat/share/parlament_0.2.tar.gz
+[Ctv3]: https://huggingface.co/datasets/collectivat/tv3_parla
+[CpC]: https://g4e5.c13.e2-2.dev/dataset-share/parlament_v1.0_clean.tar.gz
+[CpO]: https://g4e5.c13.e2-2.dev/dataset-share/parlament_v1.0_other.tar.gz
+[Cp0.3]: https://g4e5.c13.e2-2.dev/dataset-share/parlament_0.2.tar.gz
 [Cp2.0]: https://zenodo.org/record/5541827
-[M0.3]: http://collectivat.cat/share/ca-es-models-v0.3.0.zip
-[M0.4]: http://collectivat.cat/share/ca-es-models-v0.4.0.zip
-[LMos]: http://collectivat.cat/share/lm_ca_collectivat.zip
-[TTSOna]: http://collectivat.cat/share/upc_ona_data.tar.gz
-[TTSPau]: http://collectivat.cat/share/upc_pau_data.tar.gz
-[TTSOnaModel]: http://collectivat.cat/share/upc_ona_tacotron2.pt
-[TTSPauModel]: http://collectivat.cat/share/upc_pau_tacotron2.pt
-[1]: #acoustic-corpora
-[2]: #asr-models
+[M0.3]: https://g4e5.c13.e2-2.dev/dataset-share/ca-es-models-v0.3.0.zip
+[M0.4]: https://g4e5.c13.e2-2.dev/dataset-share/ca-es-models-v0.4.0.zip
+[LMos]: https://g4e5.c13.e2-2.dev/dataset-share/lm_ca_collectivat.zip
+[TTSOna]: https://g4e5.c13.e2-2.dev/dataset-share/upc_ona_data.tar.gz
+[TTSPau]: https://g4e5.c13.e2-2.dev/dataset-share/upc_pau_data.tar.gz
+[TTSOnaModel]: https://g4e5.c13.e2-2.dev/dataset-share/upc_ona_tacotron2.pt
+[TTSPauModel]: https://g4e5.c13.e2-2.dev/dataset-share/upc_pau_tacotron2.pt
+[1]: #corpora-acústics
+[2]: #models-de-rap
 [3]: #parlamentparla
 [4]: #tv3parla
-[5]: #upc-festcat-tts-corpora
-[6]: #tts-models
-
+[5]: #corpus-upc-festcat-sdv
+[6]: #models-de-sdv
