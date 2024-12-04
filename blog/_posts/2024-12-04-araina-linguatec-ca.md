@@ -9,7 +9,7 @@ summary: "Aquesta tardor hem tornat a donar impuls al projecte Araina per promou
 
 <br>
 
-<p align="center"><img src="/img/blog/2024/linguatec.png" width="70%" ></p>
+<p align="center"><img src="/img/blog/2024/linguatec.png" width="80%" ></p>
 
 <!--
 
@@ -31,7 +31,7 @@ Si bé a l’anterior fase del projecte vam organitzar una Marató de veus a Vie
 
 El primer pas per a dur a terme els enregistraments ha estat preparar el corpus de text, és a dir, un conjunt de fragments escrits perquè les locutores els puguin anar llegint en veu alta. Per ampliar el corpus de veu del que partíem, hem utilitzat materials històrics de la <a href="https://ddd.uab.cat/collection/honsaran" target="_blank" rel="noopener noreferrer">Premsa Aranesa</a> (UAB) des de 1921 fins l'actualitat, i hem revisat sistemàticament més de 500 entrades del catàleg, identificant documents amb contingut en aranès, fixant-nos en la qualitat i el format del text i l’adequació per al corpus segons el gènere (articles periodístics o informatius, poesia, teatre, etc.). Aquest treball manual ens ha permès crear una base de dades organitzada amb els millors textos per alimentar el corpus.
 
-Per obtenir els textos, hem desenvolupat un sistema automatitzat innovador amb diverses característiques: pot extreure el text dels documents PDF digitalitzats, fer reconeixement òptic de caràcters (OCR) en imatges, corregir errors ortogràfics i de format utilitzant models de llenguatge i segmentar i seleccionar frases adequades per a gravacions. Alineades amb els valors de Col·lectivaT de fer el coneixement accessible i col·laboratiu, el sistema està creat amb codi és obert i el trobareu <a href="https://github.com/CollectivaT-dev/aranese-text-corpus/" target="_blank" rel="noopener noreferrer">disponible a GitHub</a>, aplicable per a altres llengües minoritzades. La informació recollida la publicarem al repositori de <a href="https://huggingface.co/datasets/collectivat/araina-text-corpus" target="_blank" rel="noopener noreferrer">HuggingFace</a>.
+<img align="left" src="/img/blog/2024/araina-cases-logo.png" alt="Projecte Araina" width="35%" style="margin: 0 20px 0px 0px">Per obtenir els textos, hem desenvolupat un sistema automatitzat innovador amb diverses característiques: pot extreure el text dels documents PDF digitalitzats, fer reconeixement òptic de caràcters (OCR) en imatges, corregir errors ortogràfics i de format utilitzant models de llenguatge i segmentar i seleccionar frases adequades per a gravacions. Alineades amb els valors de Col·lectivaT de fer el coneixement accessible i col·laboratiu, el sistema està creat amb codi és obert i el trobareu <a href="https://github.com/CollectivaT-dev/aranese-text-corpus/" target="_blank" rel="noopener noreferrer">disponible a GitHub</a>, aplicable per a altres llengües minoritzades. La informació recollida la publicarem al repositori de <a href="https://huggingface.co/datasets/collectivat/araina-text-corpus" target="_blank" rel="noopener noreferrer">HuggingFace</a>.
 
 Gràcies a aquesta feina, hem generat 10.000 frases optimitzades per a les gravacions de veu, tot assegurant la diversitat de sons de la llengua amb el mecanisme de transcripció fonètica de Lo Congrès. També hem preservat la diversitat d’expressions, incloent des del llenguatge quotidià fins a expressions comunes per interfícies d'usuari. I finalment, hem inclòs noms propis en català i castellà per assegurar que el model aprengui a pronunciar correctament els noms més comuns en el context local.
 
@@ -41,7 +41,9 @@ Com a equip tècnic, des de Col·lectivaT hem dut a terme diverses tasques com s
 
 ### Les properes passes perquè la tecnologia parli i entengui l’aranès
 
-Durant el 2025, continuarem recollint dades de veu a través de la plataforma Common Voice, combinant la participació voluntària amb col·laboracions remunerades per assegurar la diversitat de veus i variants. També ens proposem organitzar sessions controlades de gravació amb participants seleccionades, buscant un equilibri en gènere, edat i variant dialectal, i processar els materials existents amb transcripcions per enriquir el corpus. L'objectiu és aconseguir un mínim de 50 hores de gravacions en total per poder desenvolupar models de reconeixement automàtic de veu (ASR). En aquest procés, tot el material generat alimentarà el desenvolupament de models de veu en aranès dins del projecte LinguaTec-IA, establint les bases per futures aplicacions interactives en aquesta llengua.
+
+
+<img align="right" src="/img/blog/2024/Assistent-veu_1.png" alt="Assistent de veu en aranes" width="35%">Durant el 2025, continuarem recollint dades de veu a través de la plataforma Common Voice, combinant la participació voluntària amb col·laboracions remunerades per assegurar la diversitat de veus i variants. També ens proposem organitzar sessions controlades de gravació amb participants seleccionades, buscant un equilibri en gènere, edat i variant dialectal, i processar els materials existents amb transcripcions per enriquir el corpus. L'objectiu és aconseguir un mínim de 50 hores de gravacions en total per poder desenvolupar models de reconeixement automàtic de veu (ASR). En aquest procés, tot el material generat alimentarà el desenvolupament de models de veu en aranès dins del projecte LinguaTec-IA, establint les bases per futures aplicacions interactives en aquesta llengua.
 
 Des de la nostra perspectiva, aquest projecte obre noves possibilitats per a l'aranès en l'era digital. Algunes d’elles poden ser aplicacions educatives interactives amb veu natural en aranès, assistents virtuals, eines d'accessibilitat per a persones amb dificultats de lectura, sistemes de navegació i transport públic en aranès, etc.
 
