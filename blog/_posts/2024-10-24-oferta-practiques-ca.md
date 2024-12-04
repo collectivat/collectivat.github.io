@@ -15,7 +15,7 @@ summary: "Busquem una persona en pràctiques amb coneixements de màrqueting i m
 
 **Ubicació:** Barcelona
 
-**Període:** novembre 2024 - març 2025
+**Període:** gener 2025 - maig 2025
 
 ### Sobre Col·lectivaT
 

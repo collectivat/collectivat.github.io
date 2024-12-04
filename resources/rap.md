@@ -20,8 +20,9 @@ Com a part de la nostra missió, proporcionem dades obertes i recursos sobre tec
 | [TV3Parla+ParlamentParla][2]       v0.2 | català  | model acústic  | GNU AGPL-3.0  | [enllaç][M0.4] |
 | [TV3Parla Corpus][4]               v0.3 | català  | corpus d'àudio | CC-BY-NC 4.0  | [enllaç][Ctv3] |
 | [ParlamentParla Corpus][3]         v2.0 | català  | corpus d'àudio |  CC-BY 4.0    | [enllaç][Cp2.0]|
-| [Catotron - Ona][6]                     | català  | model de SDV   | CC-BY 4.0     | [enllaç][TTSOnaModel] |
-| [Catotron - Pau][6]                     | català  | model de SDV   | CC-BY 4.0     | [enllaç][TTSPauModel] |
+| [Catotron - Ona Fast Speech][6]         | català  | model de SDV   | OpenRail     | [link][TTSOnaModel] |
+| [Catotron - Pau Tacotron2][6]           | català  | model de SDV   | OpenRail     | [link][TTSPauModel] |
+| TTS API                                 | -       | Software      | GNU AGPL-3.0     | [link][TTSAPI] |
 | [UPC FestCat Ona - optimitzat][5]       | català  | corpus d'àudio |  CC BY-SA 3.0 ES   | [enllaç][TTSOna]|
 | [UPC FestCat Pau - optimitzat][5]       | català  | corpus d'àudio |  CC BY-SA 3.0 ES   | [enllaç][TTSPau]|
 | OpenSubtitles LM                   v1.0 | català  | model d'idioma |  CC-BY 4.0    | [enllaç][LMos] |
@@ -29,6 +30,8 @@ Com a part de la nostra missió, proporcionem dades obertes i recursos sobre tec
 | Corpus de textos Araina | occità aranès  | corpus de text |  CC-0 1.0    | [enllaç](araina) |
 | Articles de Şalom | judeocastellà  | corpus de text |  CC-BY 4.0    | [enllaç](salom) |
 | Una Fraza al diya | judeocastellà  | corpus de text paral·lel |  CC-BY 4.0    | [enllaç](fraza) |
+| Ladino TTS | judeocastellà | model de SDV | CC-BY-NC | [link][karen] |
+| Ladino TTS corpus | judeocastellà | corpus d'àudio | CC-BY-NC | [link][karen] |
 
 
 <br/>
@@ -97,6 +100,7 @@ Per obtenir més informació, podeu consultar [el nostre article publicat a Inte
 [HF]: https://huggingface.co/collectivat
 [amazic]: https://huggingface.co/datasets/collectivat/amazic
 [araina]: https://huggingface.co/datasets/collectivat/araina-text-corpus
+[karen]: https://data.sefarad.com.tr/dataset/tts-training-dataset
 [salom]: https://huggingface.co/datasets/collectivat/salom-ladino-articles
 [fraza]: https://huggingface.co/datasets/collectivat/una-fraza-al-diya
 [wiki]: https://github.com/collectivat/cmusphinx-models/wiki
@@ -110,17 +114,18 @@ Per obtenir més informació, podeu consultar [el nostre article publicat a Inte
 [ccsaes]: https://creativecommons.org/licenses/by-sa/3.0/
 [gapgl]: https://www.gnu.org/licenses/agpl-3.0.html
 [Ctv3]: https://huggingface.co/datasets/collectivat/tv3_parla
-[CpC]: https://g4e5.c13.e2-2.dev/dataset-share/parlament_v1.0_clean.tar.gz
-[CpO]: https://g4e5.c13.e2-2.dev/dataset-share/parlament_v1.0_other.tar.gz
-[Cp0.3]: https://g4e5.c13.e2-2.dev/dataset-share/parlament_0.2.tar.gz
+[CpC]: https://p8b0.c14.e2-4.dev/dataset-share-fr/parlament_v1.0_clean.tar.gz
+[CpO]: https://p8b0.c14.e2-4.dev/dataset-share-fr/parlament_v1.0_other.tar.gz
+[Cp0.3]: https://p8b0.c14.e2-4.dev/dataset-share-fr/parlament_0.2.tar.gz
 [Cp2.0]: https://zenodo.org/record/5541827
-[M0.3]: https://g4e5.c13.e2-2.dev/dataset-share/ca-es-models-v0.3.0.zip
-[M0.4]: https://g4e5.c13.e2-2.dev/dataset-share/ca-es-models-v0.4.0.zip
-[LMos]: https://g4e5.c13.e2-2.dev/dataset-share/lm_ca_collectivat.zip
-[TTSOna]: https://g4e5.c13.e2-2.dev/dataset-share/upc_ona_data.tar.gz
-[TTSPau]: https://g4e5.c13.e2-2.dev/dataset-share/upc_pau_data.tar.gz
-[TTSOnaModel]: https://g4e5.c13.e2-2.dev/dataset-share/upc_ona_tacotron2.pt
-[TTSPauModel]: https://g4e5.c13.e2-2.dev/dataset-share/upc_pau_tacotron2.pt
+[M0.3]: https://p8b0.c14.e2-4.dev/dataset-share-fr/ca-es-models-v0.3.0.zip
+[M0.4]: https://p8b0.c14.e2-4.dev/dataset-share-fr/ca-es-models-v0.4.0.zip
+[LMos]: https://p8b0.c14.e2-4.dev/dataset-share-fr/lm_ca_collectivat.zip
+[TTSOna]: https://p8b0.c14.e2-4.dev/dataset-share-fr/upc_ona_data.tar.gz
+[TTSPau]: https://p8b0.c14.e2-4.dev/dataset-share-fr/upc_pau_data.tar.gz
+[TTSOnaModel]: https://g4e5.c13.e2-2.dev/dataset-share/catotron-ona-fast-speech-v0.2.zip
+[TTSPauModel]: https://p8b0.c14.e2-4.dev/dataset-share-fr/upc_pau_tacotron2.pt
+[TTSAPI]: https://github.com/CollectivaT-dev/TTS-API
 [1]: #corpora-acústics
 [2]: #models-de-rap
 [3]: #parlamentparla
