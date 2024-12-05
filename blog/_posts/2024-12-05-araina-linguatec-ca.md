@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "El projecte Araina agafa impuls"
+title: "El Projecte Araina Agafa Impuls"
 ref: araina2024
 thumbnail: /img/blog/2024/linguatec.png
 lang: ca
@@ -31,7 +31,9 @@ Si bé a l’anterior fase del projecte vam organitzar una Marató de veus a Vie
 
 El primer pas per a dur a terme els enregistraments ha estat preparar el corpus de text, és a dir, un conjunt de fragments escrits perquè les locutores els puguin anar llegint en veu alta. Per ampliar el corpus de veu del que partíem, hem utilitzat materials històrics de la <a href="https://ddd.uab.cat/collection/honsaran" target="_blank" rel="noopener noreferrer">Premsa Aranesa</a> (UAB) des de 1921 fins l'actualitat, i hem revisat sistemàticament més de 500 entrades del catàleg, identificant documents amb contingut en aranès, fixant-nos en la qualitat i el format del text i l’adequació per al corpus segons el gènere (articles periodístics o informatius, poesia, teatre, etc.). Aquest treball manual ens ha permès crear una base de dades organitzada amb els millors textos per alimentar el corpus.
 
-<a href="https://www.projecte-araina.org/ca/" target="_blank"><img align="left" src="/img/blog/2024/araina-cases-logo.png" alt="Projecte Araina" width="35%" style="margin: 0 20px 0px 0px"></a>Per obtenir els textos, hem desenvolupat un sistema automatitzat innovador amb diverses característiques: pot extreure el text dels documents PDF digitalitzats, fer reconeixement òptic de caràcters (OCR) en imatges, corregir errors ortogràfics i de format utilitzant models de llenguatge i segmentar i seleccionar frases adequades per a gravacions. Alineades amb els valors de Col·lectivaT de fer el coneixement accessible i col·laboratiu, el sistema està creat amb codi obert i el trobareu <a href="https://github.com/CollectivaT-dev/aranese-text-corpus/" target="_blank" rel="noopener noreferrer">disponible a GitHub</a>, aplicable per a altres llengües minoritzades. La informació recollida la publicarem al repositori de <a href="https://huggingface.co/datasets/collectivat/araina-text-corpus" target="_blank" rel="noopener noreferrer">HuggingFace</a>.
+<a href="https://www.projecte-araina.org/ca/" target="_blank"><img align="left" src="/img/blog/2024/araina-cases-logo.png" alt="Projecte Araina" width="35%" style="margin: 0 20px 0px 0px"></a>Per obtenir els textos, hem desenvolupat un sistema automatitzat innovador amb diverses característiques: pot extreure el text dels documents PDF digitalitzats, fer reconeixement òptic de caràcters (OCR) en imatges, corregir errors ortogràfics i de format utilitzant models de llenguatge i segmentar i seleccionar frases adequades per a gravacions. 
+
+Alineades amb els valors de Col·lectivaT de fer el coneixement accessible i col·laboratiu, el sistema està creat amb codi obert i el trobareu <a href="https://github.com/CollectivaT-dev/aranese-text-corpus/" target="_blank" rel="noopener noreferrer">disponible a GitHub</a>, aplicable per a altres llengües minoritzades. La informació recollida la publicarem al repositori de <a href="https://huggingface.co/datasets/collectivat/araina-text-corpus" target="_blank" rel="noopener noreferrer">HuggingFace</a>.
 
 Gràcies a aquesta feina, hem generat 10.000 frases optimitzades per a les gravacions de veu, tot assegurant la diversitat de sons de la llengua amb el mecanisme de transcripció fonètica de Lo Congrès. També hem preservat la diversitat d’expressions, incloent des del llenguatge quotidià fins a expressions comunes per interfícies d'usuari. I finalment, hem inclòs noms propis en català i castellà per assegurar que el model aprengui a pronunciar correctament els noms més comuns en el context local.
 
