@@ -11,11 +11,8 @@ summary: "Aquesta tardor hem tornat a donar impuls al projecte Araina per promou
 
 <p align="center"><img src="/img/blog/2024/linguatec.png" width="80%" ></p>
 
-<!--
+<iframe src="/player/localplayer.html?file=https://storage.googleapis.com/ttsreader/nou.collectivat.cat-2024-12-05-el-projecte-araina-agafa-impuls-.mp3&title=Escolta aquest article amb enVeu" type="text/html" width="100%" height="80px" frameborder="0" allowfullscreen></iframe> 
 
-<iframe src="/player/localplayer.html?file=https://storage.googleapis.com/ttsreader/nou.collectivat.cat-2024-07-10-obrim-el-collectivat-tech-lab-.mp3&title=Escolta aquest article amb enVeu" type="text/html" width="100%" height="80px" frameborder="0" allowfullscreen></iframe> 
-
--->
 
 <br>
 
